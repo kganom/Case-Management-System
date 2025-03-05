@@ -1,5 +1,5 @@
 import os
-path="C:/Users/KganoM/Desktop/API/MLDeployment"    # set your local directory
+path="C:/Users/KganoM/Desktop/Case-Management-System/API/MLDeployment"    # set your local directory
 os.chdir(path)
 
 import warnings
