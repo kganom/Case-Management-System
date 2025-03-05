@@ -1,5 +1,5 @@
 import os
-path="C:/Users/KganoM/Downloads/doc"    # set your local directory
+path="C:/Users/KganoM/Desktop/API/MLDeployment"    # set your local directory
 os.chdir(path)
 
 import warnings
@@ -62,11 +62,10 @@ y_test = test_set['outcome']
 
 X_train.shape, X_test.shape  # check shape of splitted data
 
-model = DecisionTreeClassifier(criterion='gini', max_depth=3, random_state=0) 
+model = DecisionTreeClassifier(max_depth=3)  # max_depth is maximum number of levels in the tree
 model.fit(X_train, y_train)  
 
 y_train_pred = model.predict(X_train) # prediction model on train set
-
 y_test_pred = model.predict(X_test)   # prediction model on test set
 
-dump(model, 'model.joblib')  # save the model for deployment as an API
+dump(model, './model.joblib')  # save the model for deployment as an API
