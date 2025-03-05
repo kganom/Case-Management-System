@@ -46,17 +46,13 @@ def basic():
 
         y_pred = [[case_type_dummy, age, risk_level, previous_cases_dummy]]      
         preds = model.predict(y_pred)
-        try:
-            preds = int(preds)
-        except ValueError:
-            preds = 0
 
-        if preds >= 0 and preds < 0.50:
+        if preds =='escalated':
             flash("ESCALATED", 'danger')
-        elif preds >= 0.50 and preds < 0.75:
+        elif preds =='pending':
             flash("PENDING", 'error')
-        elif preds >= 0.75:
-            flash("RESOLVED, ", 'success')
+        elif preds =='resolved':
+            flash("RESOLVED", 'success')
     return render_template('index.html')
 
 
