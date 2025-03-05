@@ -1,0 +1,892 @@
+case_ID;case_type;client_ID;status;assignee;priority;creation_date;resolution_time;description;notes;outcome;name;age;risk_level;previous_cases;case_type_dummy;previous_cases_dummy
+1753;civil;217;C;Stankovic;high;2018-04-21 00:00:00;2015-01-05 14:35:14;349239;;pending; Mr. William Thomas;66;0;Y;1;1
+1085;criminal;128;S;Silvey;medium;2016-08-03 00:00:00;2015-01-16 08:04:16;13507;E44;resolved; Rev. Robert James;83;0;N;0;0
+1686;civil;261;S;Andrews;medium;2021-05-24 00:00:00;2015-01-16 14:46:54;112050;A36;pending;" Mr. Howard Hugh ""Harry""";62;1;Y;1;1
+1116;civil;232;S;Harris;low;2017-03-23 00:00:00;2015-01-16 14:48:12;S.W./PP 752;;resolved; Mr. William Henry;63;2;N;1;0
+1167;civil;261;S;Vande Velde;high;2021-12-27 00:00:00;2015-01-21 10:33:27;345780;;pending;" Mr. Howard Hugh ""Harry""";62;1;Y;1;1
+1608;civil;115;S;Adams;high;2021-11-22 00:00:00;2015-01-21 15:00:00;341826;;pending; Mr. Domingos Fernandeo;19;1;Y;1;1
+1325;civil;152;S;Chapman;low;2015-01-31 00:00:00;2015-01-22 16:26:07;SC/AH 29037;;pending; Mr. Reginald;68;0;N;1;0
+1377;criminal;4;S;Kantor;low;2023-03-31 00:00:00;2015-02-01 11:09:45;244367;;resolved; Mr. James;75;2;N;0;0
+2026;civil;134;S;Sutehall;high;2021-11-19 00:00:00;2015-02-01 15:46:57;SOTON/OQ 392076;;escalated; Mr. Harry;91;3;N;1;0
+1319;criminal;220;S;Brown;low;2016-01-03 00:00:00;2015-02-01 16:47:17;248733;F33;resolved; Miss. Gladys;48;1;Y;0;1
+1354;criminal;57;S;Andersson;high;2021-09-14 00:00:00;2015-02-03 15:28:48;347082;;escalated; Mr. Stephen Curnow;84;2;Y;0;1
+1582;civil;256;S;Morley;high;2015-02-23 00:00:00;2015-02-09 08:58:25;364506;;pending; Mr. Adolphe;20;2;Y;1;1
+1483;civil;98;S;Backstrom;high;2017-01-19 00:00:00;2015-02-21 13:47:17;3101278;;pending; Miss. Malake;42;1;Y;1;1
+1685;civil;264;S;Arnold-Franchi;high;2024-03-07 00:00:00;2015-02-24 13:30:00;349237;;pending; Mr. Samuel;21;3;Y;1;1
+1338;civil;98;C;Markoff;high;2020-10-15 00:00:00;2015-02-24 15:01:35;349213;;pending; Miss. Malake;42;1;Y;1;1
+1164;criminal;57;S;Richards;low;2022-02-18 00:00:00;2015-02-25 13:56:21;29106;;resolved; Mr. Stephen Curnow;84;2;Y;0;1
+1983;civil;115;S;Thorneycroft;high;2015-08-21 00:00:00;2015-02-27 13:18:46;376564;;pending; Mr. Domingos Fernandeo;19;1;Y;1;1
+1241;civil;67;S;Troupiansky;low;2016-06-30 00:00:00;2015-02-28 13:09:59;233639;;escalated; Mr. Achille;65;3;Y;1;1
+1159;criminal;120;S;Wick;medium;2015-07-08 00:00:00;2015-03-01 10:47:25;36928;C7;resolved; Mr. Olaf Elon;82;3;N;0;0
+1379;criminal;5;Q;Jermyn;high;2024-04-16 00:00:00;2015-03-04 14:50:21;14313;;resolved; Mr. Timothy J;57;0;Y;0;1
+1681;criminal;188;S;Palsson;high;2015-03-08 00:00:00;2015-03-06 13:36:55;349909;;pending; Mr. Walter;53;1;N;0;0
+1613;civil;261;S;Johnson;high;2024-11-16 00:00:00;2015-03-12 13:39:56;347062;;pending;" Mr. Howard Hugh ""Harry""";62;1;Y;1;1
+1128;criminal;77;S;Clarke;low;2024-10-16 00:00:00;2015-03-16 09:25:38;2003;;resolved; Mr. Paul Edvin;38;2;Y;0;1
+1433;criminal;10;Q;O'Brien;high;2022-11-23 00:00:00;2015-03-18 10:46:51;370365;;resolved; Mr. Anders Johan;47;2;Y;0;1
+1301;criminal;155;Q;Devaney;high;2018-07-09 00:00:00;2015-03-27 09:08:30;330958;;resolved; Mr. Rene;28;3;Y;0;1
+2014;civil;153;S;Willey;high;2018-08-14 00:00:00;2015-03-28 09:12:58;S.O./P.P. 751;;pending; Mr. Lionel;61;3;Y;1;1
+1733;criminal;216;S;Lobb;high;2021-04-15 00:00:00;2015-03-31 14:37:32;A/5. 3336;;pending; Mr. James George;74;1;Y;0;1
+1839;civil;3;S;Windelov;high;2015-02-24 00:00:00;2015-04-01 08:01:15;SOTON/OQ 3101317;;pending; Mr. William Henry;90;2;Y;1;1
+1415;civil;45;S;Asplund;high;2019-08-05 00:00:00;2015-04-08 16:05:40;347077;;pending; Mr. Mansouer;20;3;Y;1;1
+1354;criminal;192;S;Goodwin;high;2015-06-29 00:00:00;2015-04-11 13:41:57;CA 2144;;pending; Mr. Christo;43;1;Y;0;1
+1612;civil;184;C;Laroche;low;2023-04-17 00:00:00;2015-04-24 08:58:34;SC/Paris 2123;;pending; Miss. Madeleine;67;3;Y;1;1
+1674;civil;22;S;Sage;high;2017-06-27 00:00:00;2015-04-26 09:02:10;CA. 2343;;pending;" Miss. Ellen ""Nellie""";35;2;N;1;0
+1956;civil;229;S;Carlsson;medium;2017-02-10 00:00:00;2015-04-27 11:32:12;695;B51 B53 B55;pending; Mr. Ernst Ulrik;83;1;Y;1;1
+1564;civil;98;S;Johnston;high;2019-03-07 00:00:00;2015-04-29 09:06:03;W./C. 6607;;pending; Miss. Malake;42;1;Y;1;1
+1878;civil;219;S;Niskanen;high;2019-03-11 00:00:00;2015-05-05 15:00:43;STON/O 2. 3101289;;resolved; Mrs. Gertrude Maybelle;52;1;Y;1;1
+1146;criminal;24;S;Ilett;low;2019-04-13 00:00:00;2015-05-06 10:10:08;SO/C 14885;;resolved; Don. Manuel E;35;0;Y;0;1
+1244;civil;226;S;Humblen;high;2024-07-27 00:00:00;2015-05-17 08:29:02;348121;F G63;pending; Miss. Delia;64;1;Y;1;1
+1457;criminal;28;Q;Peters;high;2016-09-20 00:00:00;2015-05-24 08:06:00;330935;;pending; Mr. Alexander Oskar;73;0;Y;0;1
+1864;criminal;101;S;Nye;low;2015-05-27 00:00:00;2015-05-24 12:30:23;C.A. 29395;F33;resolved; Mr. William John Robert;79;0;Y;0;1
+1429;criminal;88;S;Christy;low;2017-04-26 00:00:00;2015-05-28 16:42:23;237789;;resolved; Mr. Anders Vilhelm;83;0;Y;0;1
+1635;civil;51;S;Denkoff;high;2023-01-29 00:00:00;2015-05-31 14:02:33;349225;;pending; Master. Harald;32;2;Y;1;1
+1975;civil;165;S;Byles;low;2023-04-02 00:00:00;2015-06-01 15:00:26;244310;;pending; Miss. Elise;67;1;Y;1;1
+1609;criminal;65;C;Bishop;medium;2024-06-10 00:00:00;2015-06-08 10:31:26;11967;B49;resolved; Master. Alden Gates;30;3;N;0;0
+1452;civil;277;S;Rosblom;high;2015-07-01 00:00:00;2015-06-09 11:41:25;370129;;pending; Miss. Marie Grice;55;3;Y;1;1
+1278;civil;181;Q;Keane;high;2022-12-13 00:00:00;2015-06-19 09:09:56;12460;;pending; Mr. John Henry;27;3;Y;1;1
+1880;civil;30;C;Novel;high;2017-04-20 00:00:00;2015-06-20 08:24:09;2697;;pending; Mr. Ernest Charles;45;2;N;1;0
+1111;civil;74;S;Davies;low;2023-02-24 00:00:00;2015-06-25 12:02:18;C.A. 33112;;resolved; Miss. Mabel Helen;48;0;Y;1;1
+1828;criminal;202;C;Stephenson;medium;2022-11-28 00:00:00;2015-06-26 11:09:36;36947;D20;resolved; Miss. Alice Phoebe;33;2;N;0;0
+1136;civil;201;S;Norman;low;2024-06-11 00:00:00;2015-07-04 09:10:31;218629;;pending; Mr. Robert William Norman;69;3;Y;1;1
+1142;civil;259;S;Zimmerman;high;2017-05-03 00:00:00;2015-07-07 13:49:00;315082;;pending; Mr. William Cahoone Jr;60;2;Y;1;1
+1548;criminal;222;S;Vestrom;high;2021-07-08 00:00:00;2015-07-14 13:47:43;350406;;pending; Mr. Thomas;77;1;Y;0;1
+1104;civil;81;S;Parr;medium;2020-08-12 00:00:00;2015-07-17 10:53:46;112052;;pending; Mr. Charles Joseph;35;2;Y;1;1
+1178;criminal;37;S;Osman;high;2019-04-22 00:00:00;2015-07-19 09:06:29;349244;;resolved; Mr. Denis;80;3;Y;0;1
+1570;criminal;281;C;Zabour;high;2021-11-26 00:00:00;2015-07-30 09:35:51;2665;;escalated; Mr. Austen;82;3;Y;0;1
+1646;civil;28;S;Johnson;high;2018-04-13 00:00:00;2015-08-02 15:59:20;LINE;;escalated; Mr. Alexander Oskar;73;0;Y;1;1
+2000;civil;281;S;Tomlin;high;2021-01-09 00:00:00;2015-08-05 10:09:33;364499;;pending; Mr. Austen;82;3;Y;1;1
+1584;civil;35;C;Nicola-Yarred;high;2016-05-09 00:00:00;2015-08-09 12:05:54;2651;;resolved; Miss. Margaret Delia;36;1;Y;1;1
+1421;civil;225;Q;Rice;high;2015-04-22 00:00:00;2015-08-17 08:13:55;382652;;pending; Mr. William;83;3;Y;1;1
+1517;civil;280;S;Hedman;high;2022-10-09 00:00:00;2015-08-22 11:08:53;347089;;resolved; Miss. Agnes;71;2;Y;1;1
+1623;criminal;44;S;Hoyt;medium;2017-03-25 00:00:00;2015-08-23 16:34:02;19943;C93;resolved; Miss. Emily;61;1;Y;0;1
+1892;criminal;21;C;Moussa;high;2019-06-04 00:00:00;2015-09-01 08:54:23;2626;;resolved; Mr. Charles Alexander;78;0;N;0;0
+1309;criminal;249;S;Van Impe;high;2023-08-03 00:00:00;2015-09-05 10:08:41;345773;;pending;" Miss. Ellen ""Nellie""";42;1;N;0;0
+1652;criminal;1;S;Collyer;low;2020-11-17 00:00:00;2015-09-07 13:20:47;C.A. 31921;;resolved; Mr. Owen Harris;47;1;Y;0;1
+1631;criminal;107;C;Yasbeck;high;2022-01-17 00:00:00;2015-09-11 09:37:00;2659;;resolved; Miss. Susan;70;2;N;0;0
+1527;civil;231;C;Attalah;high;2023-01-08 00:00:00;2015-09-27 14:29:37;2694;;pending; Mr. Alexander;91;1;Y;1;1
+1159;civil;54;S;Hawksford;medium;2016-02-22 00:00:00;2015-09-28 11:05:51;16988;D45;resolved; Mr. Ernest James;41;3;N;1;0
+1996;civil;131;S;Sivic;high;2015-08-01 00:00:00;2015-10-01 08:03:33;349251;;pending; Mr. Ole Martin;34;0;Y;1;1
+1938;civil;92;S;Gilinski;high;2017-06-26 00:00:00;2015-10-13 13:37:12;14973;;pending; Mr. Tido;37;0;Y;1;1
+1582;civil;141;S;Becker;low;2015-04-11 00:00:00;2015-10-14 15:11:05;230136;F4;resolved;" Master. Frank John William ""Frankie""";31;1;N;1;0
+1753;civil;278;S;Williams-Lambert;medium;2022-05-29 00:00:00;2015-10-14 15:27:56;113510;C128;pending; Mr. Johan Hansen;86;3;Y;1;1
+1227;civil;261;S;Johansson;high;2015-02-27 00:00:00;2015-10-22 10:35:46;350052;;pending;" Mr. Howard Hugh ""Harry""";62;1;Y;1;1
+1130;civil;148;S;Panula;high;2016-05-27 00:00:00;2015-10-24 09:33:42;3101295;;pending; Mr. James Clinch;43;0;N;1;0
+1120;civil;79;S;Nenkoff;high;2018-01-11 00:00:00;2015-10-27 10:30:43;349234;;pending; Mr. Bertram Frank;22;1;Y;1;1
+1283;civil;65;S;Baumann;medium;2020-01-18 00:00:00;2015-10-28 13:56:04;PC 17318;;pending; Master. Alden Gates;30;3;N;1;0
+1884;civil;52;S;Richards;low;2021-08-19 00:00:00;2015-10-29 08:46:54;29106;;resolved; Mr. Albert A;66;1;Y;1;1
+1069;criminal;2;C;Hippach;medium;2015-04-10 00:00:00;2015-10-31 10:29:25;111361;B18;resolved; Miss. Laina;40;0;Y;0;1
+1621;civil;134;S;Bowen;high;2017-02-20 00:00:00;2015-10-31 11:41:43;54636;;pending; Mr. Harry;91;3;N;1;0
+1202;criminal;63;Q;Mangan;high;2024-10-30 00:00:00;2015-11-01 14:02:24;364850;;pending; Mr. Ivan;85;3;Y;0;1
+1672;civil;250;S;Van der hoef;medium;2017-03-22 00:00:00;2015-11-11 16:18:03;111240;B19;pending; Mr. Rene Jacques;82;3;Y;1;1
+1724;civil;33;S;Maisner;high;2024-05-05 00:00:00;2015-11-11 16:58:22;A/S 2816;;pending; Mr. Theodor;28;0;Y;1;1
+1913;criminal;107;S;Abbott;high;2019-04-20 00:00:00;2015-11-17 13:41:40;C.A. 2673;;resolved; Miss. Susan;70;2;N;0;0
+1164;civil;73;S;Cairns;medium;2024-03-17 00:00:00;2015-11-22 10:40:39;113798;;pending; Mr. Selman Francis;66;1;Y;1;1
+1691;criminal;22;Q;Henry;high;2022-07-11 00:00:00;2015-11-24 10:00:37;382649;;pending;" Miss. Ellen ""Nellie""";35;2;N;0;0
+1840;civil;170;S;Dimic;high;2023-01-23 00:00:00;2015-11-29 10:45:50;315088;;pending; Mr. Frederick;40;3;N;1;0
+1604;civil;84;S;Leyson;low;2023-07-14 00:00:00;2015-12-08 11:29:37;C.A. 29566;;pending; Mr. Sinai;21;1;Y;1;1
+1767;civil;236;S;Hodges;low;2016-06-17 00:00:00;2015-12-09 13:19:47;250643;;pending; Miss. Augusta Charlotta;58;1;Y;1;1
+1548;civil;101;S;Collander;low;2016-10-31 00:00:00;2015-12-10 13:16:11;248740;;pending; Mr. William John Robert;79;0;Y;1;1
+1655;civil;215;C;Lewy;medium;2021-06-02 00:00:00;2015-12-11 09:03:27;PC 17612;;pending; Rev. Ernest Courtenay;25;2;Y;1;1
+1054;civil;141;Q;Dooley;high;2018-02-24 00:00:00;2015-12-11 16:31:52;370376;;escalated;" Master. Frank John William ""Frankie""";31;1;N;1;0
+1053;civil;248;Q;Connaghton;high;2018-05-23 00:00:00;2015-12-12 16:46:08;335097;;pending; Miss. Kate;55;0;Y;1;1
+1319;civil;55;S;Berglund;high;2024-11-24 00:00:00;2015-12-13 14:47:20;PP 4348;;pending; Miss. Erna Alexandra;29;2;N;1;0
+1394;civil;96;S;Rintamaki;high;2022-05-04 00:00:00;2015-12-13 15:18:52;STON/O 2. 3101273;;pending; Mr. David John;75;0;Y;1;1
+1345;civil;63;S;Navratil;low;2019-09-22 00:00:00;2015-12-30 13:49:26;230080;F2;escalated; Mr. Ivan;85;3;Y;1;1
+1153;criminal;132;S;Beane;low;2024-01-14 00:00:00;2016-01-04 16:33:19;2908;;escalated; Mr. Charles Duane;88;2;N;0;0
+1769;civil;64;S;Mellors;low;2016-06-12 00:00:00;2016-01-08 10:32:36;SW/PP 751;;resolved; Mr. Rahamin Haim;56;0;Y;1;1
+1622;civil;189;S;Navratil;low;2017-09-15 00:00:00;2016-01-31 13:02:56;230080;F2;resolved; Mr. Victor Francis;90;1;Y;1;1
+1564;criminal;60;C;Duff Gordon;medium;2024-09-25 00:00:00;2016-02-01 08:10:19;11755;A16;resolved; Mr. Apostolos;57;2;Y;0;1
+1796;criminal;121;S;Holverson;medium;2018-01-04 00:00:00;2016-02-08 12:06:20;113789;;resolved; Mr. Victor;71;2;N;0;0
+1279;criminal;91;S;Taussig;medium;2020-01-29 00:00:00;2016-02-10 15:44:30;110413;E68;resolved; Mr. Albert Johan;66;2;Y;0;1
+1553;criminal;18;S;Hart;low;2024-10-02 00:00:00;2016-02-13 13:43:15;F.C.C. 13529;;resolved; Mr. William Thompson;76;2;N;0;0
+1367;civil;218;C;Natsch;medium;2015-03-12 00:00:00;2016-02-26 08:34:05;PC 17596;C118;pending; Mr. William Arthur;52;0;Y;1;1
+1367;civil;224;S;Slocovski;high;2023-12-22 00:00:00;2016-02-28 13:49:52;SOTON/OQ 392086;;pending; Mr. Emil;75;2;Y;1;1
+1380;civil;53;S;Carbines;low;2023-01-16 00:00:00;2016-02-29 11:17:14;28424;;pending; Master. Gerios;19;0;Y;1;1
+1180;civil;107;S;Molson;medium;2024-08-21 00:00:00;2016-03-05 13:39:13;113787;C30;pending; Miss. Susan;70;2;N;1;0
+1548;civil;108;S;Perkin;high;2024-12-31 00:00:00;2016-03-23 12:30:06;A/5 21174;;pending; Mr. Percival Wayland;60;1;N;1;0
+1124;criminal;236;Q;Connolly;high;2021-01-07 00:00:00;2016-03-23 14:00:49;370373;;resolved; Miss. Augusta Charlotta;58;1;Y;0;1
+1802;civil;20;S;Dakic;high;2021-01-10 00:00:00;2016-03-28 09:34:51;349228;;pending; Mr. Farred Chehab;71;0;Y;1;1
+1220;civil;17;S;Jenkin;low;2018-12-04 00:00:00;2016-03-30 08:47:20;C.A. 33111;;pending;" Miss. Anna ""Annie""";87;1;Y;1;1
+1232;criminal;55;S;Chambers;medium;2016-03-06 00:00:00;2016-04-03 14:48:55;113806;E8;resolved; Miss. Erna Alexandra;29;2;N;0;0
+1635;criminal;229;S;Drew;low;2019-02-25 00:00:00;2016-04-06 13:37:47;28220;;resolved; Mr. Ernst Ulrik;83;1;Y;0;1
+1688;criminal;210;Q;Murphy;high;2017-02-20 00:00:00;2016-04-07 08:44:10;367230;;resolved; Mr. Matti Alexanteri;56;3;N;0;0
+1929;civil;241;S;Cunningham;low;2016-07-11 00:00:00;2016-04-17 11:44:10;239853;;escalated; Mr. Alfons;31;1;Y;1;1
+1706;civil;61;S;Kink;high;2020-09-08 00:00:00;2016-04-20 09:32:50;315151;;pending; Mr. Lee;43;3;N;1;0
+1622;civil;98;S;Beesley;low;2022-06-20 00:00:00;2016-04-23 09:18:00;248698;D56;resolved; Miss. Malake;42;1;Y;1;1
+1097;civil;267;S;Shorney;high;2024-11-02 00:00:00;2016-04-24 13:13:18;374910;;pending; Miss. Emily Borie;42;0;Y;1;1
+1272;criminal;210;S;Oreskovic;high;2017-09-03 00:00:00;2016-04-27 12:56:18;315096;;pending; Mr. Matti Alexanteri;56;3;N;0;0
+1323;civil;278;S;Mionoff;high;2019-06-24 00:00:00;2016-05-04 15:45:04;349207;;pending; Mr. Johan Hansen;86;3;Y;1;1
+1336;civil;96;S;Calderhead;medium;2015-08-01 00:00:00;2016-05-05 15:38:36;PC 17476;E24;escalated; Mr. David John;75;0;Y;1;1
+1656;civil;2;Q;Tobin;high;2024-11-18 00:00:00;2016-05-09 15:29:05;383121;F38;pending; Miss. Laina;40;0;Y;1;1
+1611;civil;252;S;Hansen;high;2015-06-08 00:00:00;2016-05-16 16:53:28;350026;;pending; Mr. Ivan;60;1;N;1;0
+1466;civil;265;S;Carrau;medium;2021-10-18 00:00:00;2016-05-21 11:57:07;113059;;pending; Miss. Laura Mabel;28;0;Y;1;1
+1723;criminal;147;S;Chibnall;medium;2020-03-25 00:00:00;2016-05-26 11:23:00;113505;E33;resolved; Mr. Antti Wilhelm;57;0;Y;0;1
+1656;civil;56;S;Bateman;low;2020-06-21 00:00:00;2016-05-30 11:53:14;S.O.P. 1166;;pending; Mr. Vincenz;77;2;Y;1;1
+1786;criminal;134;S;Faunthorpe;low;2015-06-05 00:00:00;2016-05-31 15:56:10;2926;;resolved; Mr. Harry;91;3;N;0;0
+1234;civil;165;S;Gee;medium;2023-09-20 00:00:00;2016-06-07 16:03:04;111320;E63;pending; Miss. Elise;67;1;Y;1;1
+1142;civil;212;S;Johnson;high;2022-06-02 00:00:00;2016-06-11 13:16:28;LINE;;pending; Dr. William Edward;40;2;Y;1;1
+1716;civil;100;C;Yasbeck;high;2016-08-27 00:00:00;2016-06-26 08:10:02;2659;;pending; Mr. Patrick;64;2;Y;1;1
+1781;civil;144;S;Sdycoff;high;2021-12-29 00:00:00;2016-06-27 16:54:20;349222;;pending; Mr. Wyckoff;76;3;Y;1;1
+1917;civil;200;C;Homer;medium;2022-06-12 00:00:00;2016-07-02 16:36:55;111426;;resolved; Miss. Lillian Gertrud;91;0;Y;1;1
+1319;criminal;139;S;Nilsson;high;2016-12-11 00:00:00;2016-07-03 11:49:03;347470;;resolved; Mr. Jovo;53;1;Y;0;1
+1775;civil;119;S;Hold;low;2015-07-04 00:00:00;2016-07-04 16:11:08;26707;;pending; Mr. Jacques Heath;41;3;Y;1;1
+1471;civil;57;S;Johannesen-Bratthammer;high;2016-04-09 00:00:00;2016-07-15 16:10:16;65306;;resolved; Mr. Stephen Curnow;84;2;Y;1;1
+1247;civil;261;S;Rood;medium;2019-01-26 00:00:00;2016-07-24 15:15:16;113767;A32;pending;" Mr. Howard Hugh ""Harry""";62;1;Y;1;1
+1601;civil;161;Q;McEvoy;high;2023-10-04 00:00:00;2016-07-26 15:40:02;36568;;pending; Mr. Stjepan;80;0;Y;1;1
+1309;civil;252;S;Sundman;high;2022-10-13 00:00:00;2016-07-28 08:02:24;STON/O 2. 3101269;;resolved; Mr. Ivan;60;1;N;1;0
+1643;criminal;229;S;Sinkkonen;low;2024-02-10 00:00:00;2016-08-08 15:00:52;250648;;resolved; Mr. Ernst Ulrik;83;1;Y;0;1
+1215;civil;164;S;Moor;high;2019-12-24 00:00:00;2016-08-10 13:47:34;392096;E121;escalated; Master. Michel M;64;0;Y;1;1
+1928;civil;8;S;Naidenoff;high;2022-02-27 00:00:00;2016-08-13 12:16:42;349206;;pending; Miss. Elizabeth;67;2;N;1;0
+1571;civil;145;S;Fortune;medium;2015-06-18 00:00:00;2016-08-14 08:17:14;19950;C23 C25 C27;pending; Master. Arthur;20;3;Y;1;1
+1061;civil;155;S;Jussila;high;2019-04-25 00:00:00;2016-08-16 15:08:21;STON/O 2. 3101286;;resolved; Mr. Rene;28;3;Y;1;1
+1418;criminal;55;S;Swift;medium;2016-04-01 00:00:00;2016-08-21 15:20:18;17466;D17;resolved; Miss. Erna Alexandra;29;2;N;0;0
+1533;civil;117;S;Seward;medium;2017-01-25 00:00:00;2016-09-11 11:22:16;113794;;resolved; Mr. Emile;47;3;Y;1;1
+1514;criminal;40;C;Serepeca;medium;2018-05-09 00:00:00;2016-09-13 10:37:21;113798;;resolved; Master. Juha Niilo;76;1;Y;0;1
+1441;criminal;104;S;Crosby;medium;2018-11-13 00:00:00;2016-09-19 12:09:56;WE/P 5735;B22;resolved; Mr. Stanley George;60;2;Y;0;1
+1664;civil;191;C;Smith;medium;2018-08-04 00:00:00;2016-10-03 16:05:31;17764;A7;pending; Mr. George Henry;39;0;N;1;0
+1594;criminal;205;S;Ford;high;2023-03-27 00:00:00;2016-10-05 12:46:39;W./C. 6608;;pending; Mr. Frederick William;83;0;Y;0;1
+1083;civil;15;S;Madsen;high;2019-06-07 00:00:00;2016-10-09 09:48:49;C 17369;;resolved; Mr. Joseph J;56;2;Y;1;1
+1426;criminal;146;Q;Murphy;high;2022-06-13 00:00:00;2016-10-11 12:48:32;367230;;resolved; Miss. Eleanor Ileen;60;2;N;0;0
+1316;criminal;238;C;Boulos;high;2018-01-21 00:00:00;2016-10-13 12:28:13;2678;;pending; Master. Eric;19;1;N;0;0
+1236;criminal;245;C;Penasco y Castellana;medium;2018-07-24 00:00:00;2016-10-19 08:35:31;PC 17758;C65;resolved; Mr. Theodore;82;1;Y;0;1
+1788;criminal;83;C;Caram;high;2024-12-15 00:00:00;2016-11-04 11:48:12;2689;;pending; Mr. William Bertram;40;3;Y;0;1
+1108;civil;192;S;Montvila;low;2022-06-09 00:00:00;2016-11-05 12:41:02;211536;;resolved; Mr. Christo;43;1;Y;1;1
+1884;civil;281;Q;Sadlier;high;2023-08-05 00:00:00;2016-11-07 09:04:36;367655;;pending; Mr. Austen;82;3;Y;1;1
+1531;civil;42;S;Coutts;high;2024-09-22 00:00:00;2016-11-07 14:20:50;C.A. 37671;;resolved; Mr. Engelhart Cornelius;18;3;Y;1;1
+1437;criminal;148;C;LeRoy;medium;2019-02-15 00:00:00;2016-11-11 14:26:10;PC 17761;;resolved; Mr. James Clinch;43;0;N;0;0
+1396;civil;260;S;Ponesell;low;2022-07-20 00:00:00;2016-11-19 13:34:11;250647;;pending; Miss. Nora A;79;2;Y;1;1
+1730;criminal;86;S;Van Impe;high;2022-07-06 00:00:00;2016-11-20 08:05:00;345773;;pending; Mr. Richard Frasar;77;0;Y;0;1
+1696;civil;14;S;Watson;low;2020-03-31 00:00:00;2016-11-20 10:09:59;239856;;pending; Mrs. Fatima;46;2;Y;1;1
+1064;civil;146;S;Ekstrom;high;2020-03-24 00:00:00;2016-11-24 16:11:51;347061;;pending; Miss. Eleanor Ileen;60;2;N;1;0
+1325;criminal;91;S;Andersson;high;2022-04-28 00:00:00;2016-12-02 13:12:00;3101281;;resolved; Mr. Albert Johan;66;2;Y;0;1
+1633;civil;164;S;Harrington;medium;2018-12-24 00:00:00;2016-12-02 14:16:48;113796;;pending; Master. Michel M;64;0;Y;1;1
+1924;civil;98;S;Goodwin;high;2021-03-27 00:00:00;2016-12-10 08:56:50;CA 2144;;pending; Miss. Malake;42;1;Y;1;1
+1219;civil;37;S;Hunt;low;2024-05-13 00:00:00;2016-12-10 16:14:10;SCO/W 1585;;pending; Mr. Denis;80;3;Y;1;1
+1452;civil;64;S;Christmann;high;2017-05-20 00:00:00;2016-12-16 12:23:37;343276;;escalated; Mr. Rahamin Haim;56;0;Y;1;1
+1364;criminal;178;Q;Bourke;high;2015-07-31 00:00:00;2016-12-18 15:38:36;364848;;pending; Mr. Henry;38;2;Y;0;1
+1822;civil;260;S;Danoff;high;2021-07-26 00:00:00;2016-12-21 10:41:31;349219;;pending; Miss. Nora A;79;2;Y;1;1
+2040;criminal;179;S;Bonnell;medium;2023-08-22 00:00:00;2017-01-02 11:41:34;113783;C103;resolved; Mr. Ahmed;21;1;Y;0;1
+1190;civil;270;S;Saundercock;high;2019-12-03 00:00:00;2017-01-10 11:56:15;A/5. 2151;;pending; Miss. Helmina Josefina;33;0;Y;1;1
+1519;civil;37;S;Clifford;medium;2023-08-17 00:00:00;2017-01-10 16:58:05;110465;A14;pending; Mr. Denis;80;3;Y;1;1
+1540;civil;128;S;Edvardsson;high;2017-07-18 00:00:00;2017-01-13 14:47:46;349912;;pending; Rev. Robert James;83;0;N;1;0
+1435;criminal;74;S;Harknett;high;2016-12-12 00:00:00;2017-01-15 16:19:21;W./C. 6609;;pending; Miss. Mabel Helen;48;0;Y;0;1
+1373;criminal;210;S;Andersson;high;2019-03-03 00:00:00;2017-01-17 10:36:03;347082;;pending; Mr. Matti Alexanteri;56;3;N;0;0
+1710;civil;266;S;Cor;high;2017-04-18 00:00:00;2017-01-27 09:29:14;349231;;pending; Miss. Margaret Bechstein;68;1;Y;1;1
+1239;civil;181;S;Todoroff;high;2017-09-24 00:00:00;2017-01-27 14:27:45;349216;;pending; Mr. John Henry;27;3;Y;1;1
+1648;civil;116;Q;Ryan;high;2016-05-02 00:00:00;2017-02-20 15:23:28;371110;;pending; Mr. Samuel James Hayden;35;0;Y;1;1
+1898;civil;110;Q;Farrell;high;2016-12-04 00:00:00;2017-02-27 11:52:22;367232;;pending; Mr. Martin;81;2;Y;1;1
+1896;criminal;31;S;Haas;high;2019-12-27 00:00:00;2017-03-04 15:58:19;349236;;pending; Miss. Augusta Maria;80;2;Y;0;1
+1816;civil;111;C;Douglas;medium;2016-05-21 00:00:00;2017-03-23 16:48:00;PC 17761;C86;pending; Mr. Fridtjof Arne;67;3;Y;1;1
+1841;civil;89;S;Odahl;high;2017-05-07 00:00:00;2017-03-30 10:16:28;7267;;pending; Mr. Stoytcho;59;0;Y;1;1
+1866;criminal;253;S;Herman;low;2024-04-13 00:00:00;2017-03-31 11:58:51;220845;;resolved; Mr. Ervin G;54;0;Y;0;1
+1152;criminal;200;S;Shutes;medium;2015-08-14 00:00:00;2017-04-12 11:12:29;PC 17582;C125;resolved; Miss. Lillian Gertrud;91;0;Y;0;1
+1763;civil;30;S;Laleff;high;2018-05-29 00:00:00;2017-04-19 10:34:45;349217;;pending; Mr. Ernest Charles;45;2;N;1;0
+1421;civil;229;Q;O'Brien;high;2022-12-12 00:00:00;2017-04-19 13:25:58;330979;;pending; Mr. Ernst Ulrik;83;1;Y;1;1
+1758;criminal;115;C;Baclini;high;2018-08-19 00:00:00;2017-04-20 08:27:45;2666;;resolved; Mr. Domingos Fernandeo;19;1;Y;0;1
+1854;civil;208;S;Van Impe;high;2018-08-19 00:00:00;2017-04-21 11:33:39;345773;;pending;" Miss. Katherine ""Kate""";24;2;Y;1;1
+1522;civil;121;S;Farthing;medium;2018-10-03 00:00:00;2017-04-24 11:00:23;PC 17483;C95;pending; Mr. Victor;71;2;N;1;0
+2001;criminal;144;C;Ayoub;high;2024-04-10 00:00:00;2017-04-27 12:11:14;2687;;resolved; Mr. Wyckoff;76;3;Y;0;1
+1239;civil;44;S;Crease;high;2022-12-07 00:00:00;2017-04-30 11:34:13;S.P. 3464;;pending; Miss. Emily;61;1;Y;1;1
+1298;civil;259;S;Sjostedt;low;2017-10-29 00:00:00;2017-05-01 09:40:19;237442;;pending; Mr. William Cahoone Jr;60;2;Y;1;1
+1295;criminal;267;S;Harris;medium;2020-05-12 00:00:00;2017-05-09 14:49:12;36973;C83;resolved; Miss. Emily Borie;42;0;Y;0;1
+1565;civil;94;S;Fischer;high;2022-10-30 00:00:00;2017-05-11 14:29:02;350036;;pending; Mr. Walter Chamberlain;28;3;Y;1;1
+1281;civil;228;S;Pekoniemi;high;2017-09-13 00:00:00;2017-05-14 16:33:01;STON/O 2. 3101294;;pending; Mr. Ernesti Arvid;52;0;Y;1;1
+1130;civil;162;C;Emir;high;2015-09-22 00:00:00;2017-05-21 09:22:11;2631;;pending; Mr. William;29;2;N;1;0
+1188;civil;217;S;Ford;high;2023-11-14 00:00:00;2017-05-21 12:22:19;W./C. 6608;;pending; Mr. William Thomas;66;0;Y;1;1
+1786;civil;51;C;Pernot;low;2018-05-04 00:00:00;2017-05-24 15:08:04;SC/PARIS 2131;;pending; Master. Harald;32;2;Y;1;1
+1093;civil;245;S;Gillespie;low;2015-03-14 00:00:00;2017-05-26 10:33:27;12233;;pending; Mr. Theodore;82;1;Y;1;1
+1890;criminal;278;S;Becker;low;2020-08-22 00:00:00;2017-06-01 11:26:18;230136;F4;resolved; Mr. Johan Hansen;86;3;Y;0;1
+1691;criminal;67;S;Sage;high;2019-11-19 00:00:00;2017-06-10 11:53:57;CA. 2343;;pending; Mr. Achille;65;3;Y;0;1
+1203;civil;96;S;Lindell;high;2024-12-11 00:00:00;2017-06-22 11:52:13;349910;;pending; Mr. David John;75;0;Y;1;1
+1450;criminal;172;C;Peter;high;2020-11-04 00:00:00;2017-06-23 14:54:23;2668;F E69;resolved; Mr. Gerious;39;3;Y;0;1
+1546;civil;253;S;Calic;high;2023-02-23 00:00:00;2017-06-23 16:41:14;315093;;pending; Mr. Ervin G;54;0;Y;1;1
+1460;criminal;56;S;Taylor;medium;2017-07-02 00:00:00;2017-06-28 13:27:33;19996;C126;resolved; Mr. Vincenz;77;2;Y;0;1
+1352;civil;71;S;Butt;medium;2015-02-04 00:00:00;2017-07-01 16:12:52;113050;B38;pending; Miss. Bertha;90;0;Y;1;1
+1990;criminal;122;C;Young;medium;2017-06-02 00:00:00;2017-07-08 14:02:24;PC 17760;C32;resolved; Miss. Anna Sofia;92;3;Y;0;1
+1427;civil;11;S;Daniel;medium;2017-08-20 00:00:00;2017-07-10 09:21:45;113804;;escalated; Miss. Hulda Amanda Adolfina;72;3;Y;1;1
+1337;criminal;70;S;Andrews;medium;2024-03-19 00:00:00;2017-08-06 16:45:33;13502;D7;resolved; Mr. Francisco M;32;3;Y;0;1
+2015;civil;124;S;Waelens;high;2021-05-02 00:00:00;2017-08-10 15:58:45;345767;;pending; Mr. Edgardo Samuel;72;2;Y;1;1
+1771;civil;106;C;Elias;high;2021-01-23 00:00:00;2017-08-16 12:38:27;2695;;pending; Mr. Nicholas;43;3;Y;1;1
+1363;criminal;123;S;Caldwell;low;2015-04-20 00:00:00;2017-08-25 08:12:29;248738;;resolved; Mr. Jeremiah;29;1;Y;0;1
+1110;civil;79;S;Carter;medium;2020-01-14 00:00:00;2017-08-28 12:17:17;113760;B96 B98;resolved; Mr. Bertram Frank;22;1;Y;1;1
+1807;civil;275;Q;Moran;high;2021-09-06 00:00:00;2017-09-01 14:57:42;330877;;pending; Miss. Hilda Mary;86;3;Y;1;1
+1692;civil;99;S;Hart;low;2016-05-22 00:00:00;2017-09-02 08:18:23;F.C.C. 13529;;pending; Mr. Edvard;19;3;Y;1;1
+1149;civil;119;Q;O'Brien;high;2019-07-24 00:00:00;2017-09-09 11:00:06;370365;;pending; Mr. Jacques Heath;41;3;Y;1;1
+1061;civil;243;Q;Duane;high;2022-10-05 00:00:00;2017-09-10 11:46:36;336439;;pending; Mr. Richard William;44;1;Y;1;1
+1514;civil;104;S;Sedgwick;low;2019-05-24 00:00:00;2017-09-12 08:08:18;244361;;pending; Mr. Stanley George;60;2;Y;1;1
+1458;civil;274;C;Youseff;high;2016-05-01 00:00:00;2017-09-12 11:31:29;2628;;pending; Mr. Yoto;30;1;Y;1;1
+1255;criminal;39;C;Newell;medium;2019-12-21 00:00:00;2017-09-12 11:48:46;35273;D36;resolved; Mr. Youssef;89;0;N;0;0
+1311;criminal;109;C;Newell;medium;2017-11-24 00:00:00;2017-09-13 13:06:32;35273;D36;resolved; Master. Elias;70;0;N;0;0
+1937;civil;23;S;Fox;low;2019-01-18 00:00:00;2017-09-16 11:05:08;229236;;pending; Mr. Lalio;75;1;N;1;0
+1149;criminal;35;S;Phillips;low;2016-11-23 00:00:00;2017-09-18 10:51:27;250655;;resolved; Miss. Margaret Delia;36;1;Y;0;1
+1257;civil;258;S;van Melkebeke;high;2021-06-11 00:00:00;2017-09-22 10:24:49;345777;;pending; Mr. Bernard;47;1;Y;1;1
+1337;criminal;40;S;Rosblom;high;2021-10-18 00:00:00;2017-09-28 14:14:21;370129;;pending; Master. Juha Niilo;76;1;Y;0;1
+1414;criminal;172;S;Johnston;high;2023-04-17 00:00:00;2017-10-06 10:59:05;W./C. 6607;;pending; Mr. Gerious;39;3;Y;0;1
+1377;civil;18;S;McKane;low;2019-04-07 00:00:00;2017-10-08 13:52:02;28403;;pending; Mr. William Thompson;76;2;N;1;0
+1426;civil;110;S;Gustafsson;high;2015-11-05 00:00:00;2017-10-13 08:41:51;7534;;pending; Mr. Martin;81;2;Y;1;1
+1966;civil;23;S;Olsen;high;2017-07-25 00:00:00;2017-10-20 15:35:17;C 4001;;pending; Mr. Lalio;75;1;N;1;0
+1315;civil;272;S;Caldwell;low;2015-10-04 00:00:00;2017-11-02 11:53:40;248738;;resolved; Miss. Mary Natalie;80;1;N;1;0
+1772;criminal;266;C;Frolicher;medium;2022-04-13 00:00:00;2017-11-04 10:33:27;13568;B39;resolved; Miss. Margaret Bechstein;68;1;Y;0;1
+1842;criminal;140;S;Smith;low;2021-08-11 00:00:00;2017-11-06 13:55:55;31418;;resolved; Master. Eino Viljami;60;3;N;0;0
+1375;civil;60;S;de Mulder;high;2021-02-17 00:00:00;2017-11-12 15:58:11;345774;;resolved; Mr. Apostolos;57;2;Y;1;1
+1922;criminal;155;C;Boulos;high;2016-11-04 00:00:00;2017-11-16 10:11:25;2678;;pending; Mr. Rene;28;3;Y;0;1
+1143;criminal;71;S;Wick;medium;2024-06-05 00:00:00;2017-11-18 10:39:22;36928;;resolved; Miss. Bertha;90;0;Y;0;1
+1373;civil;269;S;Garfirth;high;2018-10-11 00:00:00;2017-11-21 11:57:50;358585;;pending; Mr. Benjamin;64;2;Y;1;1
+1546;civil;80;C;Elias;high;2019-06-11 00:00:00;2017-11-27 10:46:34;2690;;pending; Mr. Daniel;58;2;N;1;0
+1736;civil;111;S;Reeves;low;2015-07-31 00:00:00;2017-11-29 16:51:10;C.A. 17248;;pending; Mr. Fridtjof Arne;67;3;Y;1;1
+1985;civil;212;S;Olsson;high;2015-01-12 00:00:00;2017-12-02 10:23:31;347464;;pending; Dr. William Edward;40;2;Y;1;1
+1954;civil;174;S;Navratil;low;2022-08-19 00:00:00;2017-12-07 13:21:13;230080;F2;pending; Miss. Telma Matilda;36;3;N;1;0
+1175;civil;89;S;Moss;high;2015-06-16 00:00:00;2017-12-07 16:18:20;312991;;resolved; Mr. Stoytcho;59;0;Y;1;1
+1636;civil;103;S;Calic;high;2020-05-23 00:00:00;2017-12-09 13:36:20;315086;;pending; Miss. Ellis Anna Maria;65;1;Y;1;1
+1466;civil;11;S;Barkworth;medium;2024-12-14 00:00:00;2017-12-16 10:08:59;27042;A23;escalated; Miss. Hulda Amanda Adolfina;72;3;Y;1;1
+1385;criminal;46;S;Sjoblom;high;2020-10-11 00:00:00;2017-12-18 13:09:50;3101265;;resolved; Miss. Constance Mirium;67;3;Y;0;1
+1845;civil;186;C;Doharr;high;2022-11-10 00:00:00;2017-12-19 08:56:15;2686;;pending; Mr. Sidney Samuel;87;0;Y;1;1
+1939;criminal;104;C;Harper;medium;2023-01-27 00:00:00;2017-12-31 09:05:02;PC 17572;D33;resolved; Mr. Stanley George;60;2;Y;0;1
+1641;criminal;27;Q;McGovern;high;2024-10-20 00:00:00;2018-01-06 08:04:51;330931;;resolved; Mr. Edgar Joseph;49;3;Y;0;1
+1112;civil;255;C;Stewart;medium;2024-12-15 00:00:00;2018-01-10 09:29:31;PC 17605;;pending; Miss. Helen Loraine;30;2;Y;1;1
+1397;criminal;273;S;Dowdell;high;2019-05-29 00:00:00;2018-01-10 09:35:43;364516;;resolved; Mr. Samuel;24;1;N;0;0
+1710;civil;23;S;Webber;high;2015-05-04 00:00:00;2018-01-28 15:22:45;SOTON/OQ 3101316;;pending; Mr. Lalio;75;1;N;1;0
+1772;criminal;51;S;Graham;medium;2015-01-22 00:00:00;2018-02-01 14:23:43;112053;B42;resolved; Master. Harald;32;2;Y;0;1
+2013;criminal;134;S;Hays;medium;2016-02-02 00:00:00;2018-02-06 11:02:24;12749;B69;resolved; Mr. Harry;91;3;N;0;0
+2000;criminal;205;S;Honkanen;high;2023-10-06 00:00:00;2018-02-09 10:27:24;STON/O2. 3101283;;resolved; Mr. Frederick William;83;0;Y;0;1
+1527;civil;174;S;Coleff;high;2022-06-09 00:00:00;2018-02-16 15:52:51;349209;;pending; Miss. Telma Matilda;36;3;N;1;0
+1214;civil;22;S;Larsson;high;2020-04-04 00:00:00;2018-02-18 14:12:55;7545;;escalated;" Miss. Ellen ""Nellie""";35;2;N;1;0
+1709;civil;277;S;Wiseman;high;2015-07-15 00:00:00;2018-02-24 08:36:32;A/4. 34244;;pending; Miss. Marie Grice;55;3;Y;1;1
+1315;civil;73;S;Dorking;high;2022-12-26 00:00:00;2018-02-28 09:19:26;A/5. 10482;;resolved; Mr. Selman Francis;66;1;Y;1;1
+1145;criminal;268;S;Skoog;high;2023-07-17 00:00:00;2018-03-01 09:15:50;347088;;pending; Mr. Ignjac;62;2;Y;0;1
+1891;civil;213;S;Collyer;low;2015-06-14 00:00:00;2018-03-02 16:47:51;C.A. 31921;;escalated; Miss. Agda Thorilda Viktoria;24;2;N;1;0
+1324;criminal;87;Q;O'Dwyer;high;2017-09-11 00:00:00;2018-03-03 13:39:56;330959;;resolved; Mr. Gustaf Joel;64;0;N;0;0
+1505;criminal;130;S;Bystrom;low;2015-10-18 00:00:00;2018-03-05 08:36:06;236852;;resolved; Mr. Austin Blyler;84;1;Y;0;1
+1867;criminal;140;S;Appleton;medium;2024-11-21 00:00:00;2018-03-09 14:26:18;11769;C101;resolved; Master. Eino Viljami;60;3;N;0;0
+1143;civil;270;Q;O'Connor;high;2015-03-13 00:00:00;2018-03-16 08:01:32;371060;;pending; Miss. Helmina Josefina;33;0;Y;1;1
+1620;civil;24;Q;Horgan;high;2018-05-23 00:00:00;2018-03-21 12:07:29;370377;;pending; Don. Manuel E;35;0;Y;1;1
+1851;civil;110;Q;McCoy;high;2019-04-16 00:00:00;2018-03-30 14:38:07;367226;;resolved; Mr. Martin;81;2;Y;1;1
+1247;criminal;105;C;Rothschild;medium;2020-05-28 00:00:00;2018-04-02 10:47:51;PC 17603;;resolved; Mr. Leonard Charles;23;3;Y;0;1
+1059;civil;174;S;Lindqvist;high;2022-09-28 00:00:00;2018-04-12 08:03:07;STON/O 2. 3101285;;resolved; Miss. Telma Matilda;36;3;N;1;0
+1304;civil;14;S;Stranden;high;2024-07-08 00:00:00;2018-04-17 14:02:24;STON/O 2. 3101288;;escalated; Mrs. Fatima;46;2;Y;1;1
+1236;criminal;159;Q;Kelly;high;2024-02-01 00:00:00;2018-04-24 11:44:53;14312;;resolved; Mr. Hugh Roscoe;60;2;Y;0;1
+1877;civil;105;S;Colley;medium;2020-10-15 00:00:00;2018-05-01 16:41:31;5727;E58;pending; Mr. Leonard Charles;23;3;Y;1;1
+1271;civil;125;S;Petroff;high;2019-06-24 00:00:00;2018-05-06 12:33:42;349215;;escalated; Mr. Joseph Charles;49;2;Y;1;1
+1271;civil;118;C;Betros;high;2021-02-08 00:00:00;2018-05-11 14:58:51;2648;;pending; Miss. Helen Monypeny;28;0;Y;1;1
+1820;civil;118;S;Rekic;high;2021-06-21 00:00:00;2018-05-13 09:38:53;349249;;escalated; Miss. Helen Monypeny;28;0;Y;1;1
+1550;civil;58;S;Widegren;high;2019-06-26 00:00:00;2018-05-14 09:12:40;347064;;pending; Miss. Lillian Amy;29;3;Y;1;1
+2036;criminal;231;S;Strandberg;high;2020-01-10 00:00:00;2018-05-17 14:34:13;7553;;pending; Mr. Alexander;91;1;Y;0;1
+2022;civil;1;S;Peuchen;medium;2022-06-03 00:00:00;2018-05-17 14:58:16;113786;C104;resolved; Mr. Owen Harris;47;1;Y;1;1
+1234;criminal;82;S;Louch;low;2018-06-23 00:00:00;2018-05-20 12:26:30;SC/AH 3085;;resolved; Mr. George B;30;3;Y;0;1
+1126;civil;222;S;Kelly;high;2019-05-23 00:00:00;2018-05-27 11:30:20;363592;;pending; Mr. Thomas;77;1;Y;1;1
+1113;civil;66;S;Bengtsson;high;2021-07-29 00:00:00;2018-06-01 14:36:32;347068;;pending; Miss. Elizabeth;78;1;Y;1;1
+1464;criminal;9;S;Petranec;high;2024-10-24 00:00:00;2018-06-12 11:42:00;349245;;escalated; Mr. William Henry;37;3;Y;0;1
+1309;civil;9;S;Brocklebank;high;2015-05-20 00:00:00;2018-06-18 13:25:06;364512;;pending; Mr. William Henry;37;3;Y;1;1
+1492;civil;248;S;McNamee;high;2023-05-23 00:00:00;2018-06-19 10:01:03;376566;;pending; Miss. Kate;55;0;Y;1;1
+1880;criminal;242;Q;McCoy;high;2017-12-10 00:00:00;2018-06-20 11:09:01;367226;;resolved; Mr. Edward Arthur;61;1;N;0;0
+1771;criminal;144;S;Maioni;medium;2023-01-30 00:00:00;2018-06-25 12:57:19;110152;B79;resolved; Mr. Wyckoff;76;3;Y;0;1
+1444;civil;134;S;Futrelle;medium;2016-08-07 00:00:00;2018-06-29 11:58:08;113803;C123;pending; Mr. Harry;91;3;N;1;0
+1239;criminal;188;S;Skoog;high;2024-05-02 00:00:00;2018-07-11 16:57:48;347088;;pending; Mr. Walter;53;1;N;0;0
+1864;civil;270;S;Andersson;high;2018-07-04 00:00:00;2018-07-12 15:51:42;347082;;pending; Miss. Helmina Josefina;33;0;Y;1;1
+1910;civil;177;S;Sirota;high;2021-11-22 00:00:00;2018-07-22 11:31:38;392092;;pending;" Miss. Helen ""Ellen""";48;1;N;1;0
+1346;civil;157;S;Danbom;high;2015-01-03 00:00:00;2018-08-01 13:37:47;347080;;pending; Master. Richard F;58;2;Y;1;1
+1991;criminal;266;C;Laroche;low;2024-05-29 00:00:00;2018-08-11 10:52:02;SC/Paris 2123;;resolved; Miss. Margaret Bechstein;68;1;Y;0;1
+1439;criminal;120;S;Lindahl;high;2017-02-03 00:00:00;2018-08-17 11:55:06;347071;;pending; Mr. Olaf Elon;82;3;N;0;0
+1384;criminal;96;S;Asplund;high;2019-09-03 00:00:00;2018-08-19 09:57:53;347077;;resolved; Mr. David John;75;0;Y;0;1
+1751;civil;255;S;Campbell;low;2017-06-20 00:00:00;2018-09-03 11:11:02;239853;;pending; Miss. Helen Loraine;30;2;Y;1;1
+1354;civil;177;S;Rogers;high;2024-04-14 00:00:00;2018-09-08 12:27:39;S.C./A.4. 23567;;pending;" Miss. Helen ""Ellen""";48;1;N;1;0
+2003;civil;31;C;Newell;medium;2021-03-18 00:00:00;2018-09-08 16:01:47;35273;D48;pending; Miss. Augusta Maria;80;2;Y;1;1
+1717;civil;42;S;Dick;medium;2022-05-02 00:00:00;2018-09-09 13:48:43;17474;B20;resolved; Mr. Engelhart Cornelius;18;3;Y;1;1
+1230;civil;8;S;Reuchlin;medium;2016-07-04 00:00:00;2018-09-10 08:40:08;19972;;pending; Miss. Elizabeth;67;2;N;1;0
+1501;civil;239;S;Salonen;high;2022-05-11 00:00:00;2018-09-16 16:24:14;3101296;;pending; Mr. Frank;70;3;Y;1;1
+1806;civil;174;S;Cacic;high;2021-08-22 00:00:00;2018-09-17 10:01:38;315089;;pending; Miss. Telma Matilda;36;3;N;1;0
+1391;criminal;53;S;Wells;low;2020-02-14 00:00:00;2018-09-18 14:36:40;29103;;resolved; Master. Gerios;19;0;Y;0;1
+1593;civil;166;S;Williams;low;2023-03-06 00:00:00;2018-09-19 09:42:20;244373;;resolved; Mr. Robert;56;2;Y;1;1
+1279;civil;247;S;Hamalainen;low;2021-08-10 00:00:00;2018-09-30 11:19:24;250649;;resolved; Mr. Masabumi;39;0;Y;1;1
+1439;civil;170;S;Asplund;high;2018-06-22 00:00:00;2018-10-01 08:21:07;347077;;resolved; Mr. Frederick;40;3;N;1;0
+1593;civil;167;C;Harper;medium;2021-06-29 00:00:00;2018-10-03 15:46:22;PC 17572;D33;resolved; Mr. Karl Siegwart Andreas;27;0;Y;1;1
+1562;civil;217;S;Stanley;high;2016-09-19 00:00:00;2018-10-06 08:34:31;A/4 45380;;pending; Mr. William Thomas;66;0;Y;1;1
+1098;civil;276;S;Abbott;high;2019-05-13 00:00:00;2018-10-09 11:52:48;C.A. 2673;;pending; Mr. George John Jr;28;1;Y;1;1
+1472;civil;249;S;Elsbury;high;2021-04-17 00:00:00;2018-10-18 10:03:56;A/5 3902;;pending;" Miss. Ellen ""Nellie""";42;1;N;1;0
+1666;civil;88;S;Ivanoff;high;2018-07-21 00:00:00;2018-10-27 11:56:59;349201;;pending; Mr. Anders Vilhelm;83;0;Y;1;1
+1087;civil;70;S;Braund;high;2022-01-24 00:00:00;2018-11-03 14:30:55;3460;;pending; Mr. Francisco M;32;3;Y;1;1
+1368;criminal;166;S;Hewlett;low;2019-11-07 00:00:00;2018-11-09 08:10:36;248706;;resolved; Mr. Robert;56;2;Y;0;1
+1746;criminal;2;S;Palsson;high;2019-01-08 00:00:00;2018-11-09 12:15:59;349909;;pending; Miss. Laina;40;0;Y;0;1
+1203;civil;37;S;Vanden Steen;high;2017-07-30 00:00:00;2018-11-13 14:11:20;345783;;pending; Mr. Denis;80;3;Y;1;1
+1689;civil;1;S;Williams;high;2020-03-23 00:00:00;2018-11-14 16:47:43;A/5 2466;;pending; Mr. Owen Harris;47;1;Y;1;1
+1152;civil;89;S;Klasen;high;2017-03-23 00:00:00;2018-11-16 11:27:10;350404;;pending; Mr. Stoytcho;59;0;Y;1;1
+1610;criminal;162;S;Turkula;high;2015-07-10 00:00:00;2018-11-19 08:40:25;4134;;resolved; Mr. William;29;2;N;0;0
+1122;criminal;200;C;Hippach;medium;2023-01-21 00:00:00;2018-11-23 09:15:33;111361;B18;resolved; Miss. Lillian Gertrud;91;0;Y;0;1
+1464;civil;265;S;Klaber;medium;2020-03-11 00:00:00;2018-12-01 08:20:59;113028;C124;pending; Miss. Laura Mabel;28;0;Y;1;1
+1581;civil;123;Q;Daly;high;2019-02-19 00:00:00;2018-12-02 11:44:36;382651;;resolved; Mr. Jeremiah;29;1;Y;1;1
+1881;criminal;241;S;Lefebre;high;2024-08-14 00:00:00;2018-12-02 14:27:01;4133;;pending; Mr. Alfons;31;1;Y;0;1
+1783;criminal;24;S;Troutt;low;2022-12-17 00:00:00;2018-12-05 15:36:26;34218;E101;resolved; Don. Manuel E;35;0;Y;0;1
+1875;criminal;128;S;Hocking;low;2018-07-25 00:00:00;2018-12-10 09:20:53;29105;;resolved; Rev. Robert James;83;0;N;0;0
+1759;criminal;67;Q;O'Leary;high;2018-05-12 00:00:00;2018-12-13 09:48:23;330919;;resolved; Mr. Achille;65;3;Y;0;1
+1801;criminal;8;S;Andersen-Jensen;high;2022-01-23 00:00:00;2018-12-14 08:03:24;350046;;resolved; Miss. Elizabeth;67;2;N;0;0
+1312;civil;167;S;Olsen;high;2023-05-19 00:00:00;2018-12-18 13:52:36;4579;;pending; Mr. Karl Siegwart Andreas;27;0;Y;1;1
+1381;criminal;140;S;Moor;high;2021-11-11 00:00:00;2018-12-18 14:21:42;392096;E121;resolved; Master. Eino Viljami;60;3;N;0;0
+1725;criminal;140;C;Thorne;medium;2022-12-06 00:00:00;2018-12-24 13:51:19;PC 17585;;resolved; Master. Eino Viljami;60;3;N;0;0
+2028;civil;34;S;Gustafsson;high;2020-05-21 00:00:00;2019-01-03 08:49:47;347069;;pending; Miss. Simonne Marie Anne Andree;59;1;Y;1;1
+1873;criminal;25;S;West;low;2015-06-26 00:00:00;2019-01-04 11:30:29;C.A. 34651;;resolved; Miss. Mary Agatha;65;3;Y;0;1
+1999;civil;191;C;Sirayanian;high;2015-06-24 00:00:00;2019-01-09 13:42:14;2669;;pending; Mr. George Henry;39;0;N;1;0
+1218;criminal;140;S;Webber;low;2015-03-03 00:00:00;2019-01-17 11:12:03;27267;E101;escalated; Master. Eino Viljami;60;3;N;0;0
+1393;criminal;73;S;Cacic;high;2020-08-16 00:00:00;2019-02-09 15:23:54;315084;;pending; Mr. Selman Francis;66;1;Y;0;1
+1402;civil;146;Q;Mernagh;high;2015-02-02 00:00:00;2019-02-19 13:29:08;368703;;pending; Miss. Eleanor Ileen;60;2;N;1;0
+1381;civil;41;S;Oreskovic;high;2022-12-20 00:00:00;2019-02-21 13:18:37;315094;;pending; Mr. Richard Cater;77;3;Y;1;1
+1355;civil;100;S;Davies;high;2023-11-11 00:00:00;2019-02-25 11:17:31;A/4 48871;;pending; Mr. Patrick;64;2;Y;1;1
+1288;civil;43;S;Crosby;medium;2023-08-15 00:00:00;2019-03-03 12:28:13;WE/P 5735;B22;pending; Mr. Hugh;33;1;Y;1;1
+1109;civil;281;S;Nicholls;low;2017-06-21 00:00:00;2019-03-04 15:26:56;C.A. 33112;;escalated; Mr. Austen;82;3;Y;1;1
+1193;civil;93;S;Nicholson;medium;2020-04-21 00:00:00;2019-03-05 15:05:20;693;;pending; Miss. Bertha;77;1;Y;1;1
+1871;criminal;202;S;Trout;low;2017-06-30 00:00:00;2019-03-11 13:11:00;240929;;resolved; Miss. Alice Phoebe;33;2;N;0;0
+1819;civil;219;S;Cohen;high;2020-11-10 00:00:00;2019-03-12 08:01:15;A/5 3540;;resolved; Mrs. Gertrude Maybelle;52;1;Y;1;1
+1829;criminal;278;C;Najib;high;2021-12-14 00:00:00;2019-03-13 11:51:22;2667;;resolved; Mr. Johan Hansen;86;3;Y;0;1
+1985;civil;271;C;Marechal;medium;2022-06-10 00:00:00;2019-03-19 11:25:26;11774;C47;resolved; Dr. Ernest;53;2;Y;1;1
+1945;criminal;250;S;Davison;high;2021-05-05 00:00:00;2019-03-19 15:54:52;386525;;resolved; Mr. Rene Jacques;82;3;Y;0;1
+1827;criminal;220;S;Cameron;low;2018-03-13 00:00:00;2019-03-21 12:30:14;F.C.C. 13528;;resolved; Miss. Gladys;48;1;Y;0;1
+1270;civil;37;S;Sage;high;2020-01-18 00:00:00;2019-03-22 10:07:15;CA. 2343;;pending; Mr. Denis;80;3;Y;1;1
+2003;civil;194;S;Moraweck;low;2023-09-30 00:00:00;2019-03-22 12:14:59;29011;;pending; Mr. Karl Ivar Sven;33;0;Y;1;1
+1205;civil;166;C;Blank;medium;2015-12-14 00:00:00;2019-03-24 14:26:44;112277;A31;escalated; Mr. Robert;56;2;Y;1;1
+2024;civil;183;S;Coutts;high;2024-08-24 00:00:00;2019-03-24 15:42:37;C.A. 37671;;resolved; Mr. Philip;30;3;Y;1;1
+1478;civil;251;S;Myhrman;high;2020-07-10 00:00:00;2019-03-25 11:46:54;347078;;pending; Miss. Aloisia;81;0;Y;1;1
+1728;criminal;119;S;Danbom;high;2023-10-29 00:00:00;2019-03-26 11:06:52;347080;;pending; Mr. Jacques Heath;41;3;Y;0;1
+1450;civil;234;S;Roebling;medium;2019-02-11 00:00:00;2019-04-02 10:08:33;PC 17590;A24;pending;" Miss. Hanora ""Nora""";56;3;Y;1;1
+1407;criminal;187;S;Robins;high;2016-11-13 00:00:00;2019-04-02 15:29:31;A/5. 3337;;pending; Miss. Albina;41;0;Y;0;1
+1670;criminal;111;S;Salkjelsvik;high;2018-03-07 00:00:00;2019-04-06 08:23:43;343120;;resolved; Mr. Fridtjof Arne;67;3;Y;0;1
+1502;civil;143;C;Greenfield;medium;2018-11-23 00:00:00;2019-04-06 14:19:32;PC 17759;D10 D12;escalated; Mr. Lee;52;0;Y;1;1
+1541;criminal;115;C;Attalah;high;2023-07-19 00:00:00;2019-04-08 16:53:54;2627;;pending; Mr. Domingos Fernandeo;19;1;Y;0;1
+1395;civil;131;C;Abelson;low;2018-04-30 00:00:00;2019-04-15 14:02:33;P/PP 3381;;pending; Mr. Ole Martin;34;0;Y;1;1
+1905;civil;64;S;Fry;medium;2016-02-19 00:00:00;2019-04-17 11:39:07;112058;B102;resolved; Mr. Rahamin Haim;56;0;Y;1;1
+1066;criminal;49;Q;Minahan;medium;2023-07-02 00:00:00;2019-04-19 12:14:33;19928;C78;resolved; Miss. Amelie;86;2;Y;0;1
+1266;civil;266;S;Asim;high;2015-08-30 00:00:00;2019-04-20 12:56:18;SOTON/O.Q. 3101310;;pending; Miss. Margaret Bechstein;68;1;Y;1;1
+1314;civil;7;S;Augustsson;high;2020-05-16 00:00:00;2019-04-24 10:21:04;347468;;pending; Miss. Marguerite Rut;90;3;Y;1;1
+1896;civil;138;S;Chapman;low;2023-01-12 00:00:00;2019-04-27 15:47:57;248731;;pending; Mr. John Viktor;59;2;Y;1;1
+1100;criminal;275;S;Mellinger;low;2015-07-14 00:00:00;2019-04-28 13:46:34;250644;;resolved; Miss. Hilda Mary;86;3;Y;0;1
+1288;criminal;97;S;Strom;high;2015-03-17 00:00:00;2019-05-17 13:20:30;347054;G6;pending; Miss. Katriina;41;1;Y;0;1
+1673;criminal;76;C;Ward;medium;2021-09-06 00:00:00;2019-05-19 09:01:52;PC 17755;;resolved; Mr. Emil;20;3;Y;0;1
+1534;criminal;88;S;Carter;medium;2017-11-01 00:00:00;2019-05-21 14:52:05;113760;B96 B98;resolved; Mr. Anders Vilhelm;83;0;Y;0;1
+1398;civil;243;C;Richard;low;2016-12-31 00:00:00;2019-06-01 12:05:02;SC/PARIS 2133;;pending; Mr. Richard William;44;1;Y;1;1
+1237;civil;41;S;Bostandyeff;high;2019-08-01 00:00:00;2019-06-16 10:03:30;349224;;pending; Mr. Richard Cater;77;3;Y;1;1
+1426;criminal;155;C;Lehmann;low;2015-04-27 00:00:00;2019-06-21 08:23:08;SC 1748;;resolved; Mr. Rene;28;3;Y;0;1
+1350;civil;219;S;Lam;high;2017-01-04 00:00:00;2019-06-27 09:31:06;1601;;pending; Mrs. Gertrude Maybelle;52;1;Y;1;1
+1538;criminal;255;C;Barbara;high;2023-03-08 00:00:00;2019-07-04 11:35:57;2691;;pending; Miss. Helen Loraine;30;2;Y;0;1
+1902;civil;176;C;Hassan;high;2021-10-11 00:00:00;2019-07-07 16:08:33;2699;;pending; Mr. Nassef Cassem;52;2;Y;1;1
+1614;criminal;224;S;Robert;medium;2015-12-02 00:00:00;2019-07-09 10:27:33;24160;B3;resolved; Mr. Emil;75;2;Y;0;1
+1897;criminal;149;S;Rugg;low;2022-01-21 00:00:00;2019-07-12 09:00:26;C.A. 31026;;resolved; Mr. Klas Albin;55;0;Y;0;1
+2044;civil;13;S;Daly;medium;2023-10-15 00:00:00;2019-07-15 15:00:26;113055;E17;resolved; Mr. Charles Eugene;49;2;N;1;0
+1428;civil;43;C;Hanna;high;2024-03-28 00:00:00;2019-07-17 16:19:03;2693;;pending; Mr. Hugh;33;1;Y;1;1
+1959;civil;21;S;Johansson;high;2019-05-22 00:00:00;2019-07-20 12:40:54;347063;;pending; Mr. Charles Alexander;78;0;N;1;0
+1651;criminal;55;S;Lindblom;high;2018-02-15 00:00:00;2019-07-24 08:53:57;347073;;pending; Miss. Erna Alexandra;29;2;N;0;0
+1080;criminal;68;S;Aks;high;2017-07-18 00:00:00;2019-07-30 13:50:01;392091;;resolved; Mr. Jan Baptist;26;3;Y;0;1
+1618;civil;102;S;Fynney;low;2016-07-25 00:00:00;2019-07-31 09:02:10;239865;;pending; Mr. Quigg Edmond;49;0;Y;1;1
+1086;civil;276;S;Wheadon;low;2019-08-25 00:00:00;2019-08-01 12:05:28;C.A. 24579;;pending; Mr. George John Jr;28;1;Y;1;1
+1624;criminal;145;C;Brown;medium;2023-06-25 00:00:00;2019-08-03 12:45:56;PC 17610;B4;resolved; Master. Arthur;20;3;Y;0;1
+1464;civil;67;S;Persson;high;2018-10-19 00:00:00;2019-08-08 11:34:22;347083;;resolved; Mr. Achille;65;3;Y;1;1
+1677;civil;223;S;Jonkoff;high;2019-02-19 00:00:00;2019-08-10 15:16:16;349204;;pending; Master. Edvin Rojj Felix;31;2;Y;1;1
+1195;criminal;58;Q;Slayter;low;2024-12-29 00:00:00;2019-08-17 16:12:26;234818;;resolved; Miss. Lillian Amy;29;3;Y;0;1
+1973;civil;130;S;Staneff;high;2022-03-19 00:00:00;2019-08-23 10:10:42;349208;;escalated; Mr. Austin Blyler;84;1;Y;1;1
+1452;criminal;97;S;Andersson;high;2019-12-18 00:00:00;2019-08-25 14:38:59;347082;;pending; Miss. Katriina;41;1;Y;0;1
+1898;civil;127;S;Lundahl;high;2024-08-06 00:00:00;2019-08-31 14:48:12;347743;;pending; Rev. Thomas Roussel Davids;18;3;N;1;0
+1582;civil;83;S;Mitkoff;high;2023-10-07 00:00:00;2019-09-10 10:41:31;349221;;pending; Mr. William Bertram;40;3;Y;1;1
+1701;civil;223;S;Walker;medium;2020-03-16 00:00:00;2019-09-12 10:16:45;36967;D46;pending; Master. Edvin Rojj Felix;31;2;Y;1;1
+1560;civil;168;S;Blackwell;medium;2023-09-29 00:00:00;2019-09-28 11:13:03;113784;T;pending;" Miss. Margaret ""Maggie""";54;1;Y;1;1
+1587;civil;75;S;Chaffee;medium;2022-03-11 00:00:00;2019-09-28 14:40:08;W.E.P. 5734;E31;pending; Mr. Francesco;59;1;N;1;0
+1637;criminal;89;S;Leader;medium;2022-01-15 00:00:00;2019-09-29 08:50:47;17465;D17;resolved; Mr. Stoytcho;59;0;Y;0;1
+1176;criminal;87;S;Johnson;high;2019-03-24 00:00:00;2019-10-07 09:27:04;347742;;resolved; Mr. Gustaf Joel;64;0;N;0;0
+1206;civil;101;S;Ali;high;2016-02-06 00:00:00;2019-10-12 16:22:48;SOTON/O.Q. 3101311;;pending; Mr. William John Robert;79;0;Y;1;1
+1971;criminal;118;S;Vander Planke;high;2017-12-23 00:00:00;2019-10-16 14:05:08;345763;;pending; Miss. Helen Monypeny;28;0;Y;0;1
+1229;civil;56;S;Shellard;high;2024-08-04 00:00:00;2019-10-22 14:23:25;C.A. 6212;;pending; Mr. Vincenz;77;2;Y;1;1
+1288;criminal;18;S;Leitch;low;2017-08-17 00:00:00;2019-10-24 10:23:57;248727;;resolved; Mr. William Thompson;76;2;N;0;0
+1579;criminal;47;Q;Healy;high;2018-11-04 00:00:00;2019-11-02 10:55:29;370375;;resolved; Master. William Frederick;92;3;N;0;0
+1242;civil;190;S;Murdlin;high;2023-06-25 00:00:00;2019-11-03 11:41:17;A./5. 3235;;pending; Mr. James H;28;1;Y;1;1
+1428;civil;172;S;Moen;high;2019-09-13 00:00:00;2019-11-09 13:15:01;348123;F G73;escalated; Mr. Gerious;39;3;Y;1;1
+1970;criminal;263;S;Ford;high;2018-06-03 00:00:00;2019-11-10 11:56:07;W./C. 6608;;pending; Miss. Margaret;77;2;Y;0;1
+2015;criminal;235;C;Spedden;medium;2023-01-07 00:00:00;2019-11-11 14:13:47;16966;E34;resolved; Miss. Kornelia Theodosia;33;0;Y;0;1
+1504;civil;260;S;Matthews;low;2019-11-27 00:00:00;2019-11-11 16:45:24;28228;;pending; Miss. Nora A;79;2;Y;1;1
+1305;criminal;243;S;Asplund;high;2015-03-26 00:00:00;2019-11-13 15:16:34;347077;;resolved; Mr. Richard William;44;1;Y;0;1
+1440;civil;274;S;Smith;medium;2021-02-15 00:00:00;2019-11-15 12:26:38;113056;A19;pending; Mr. Yoto;30;1;Y;1;1
+1252;civil;127;C;Guggenheim;medium;2024-01-14 00:00:00;2019-11-21 14:39:07;PC 17593;B82 B84;pending; Rev. Thomas Roussel Davids;18;3;N;1;0
+1758;civil;230;S;Williams;high;2023-07-16 00:00:00;2019-11-22 08:16:31;54636;;pending; Miss. Amelia;87;1;Y;1;1
+1061;civil;43;Q;Rice;high;2018-06-04 00:00:00;2019-11-26 08:50:38;382652;;pending; Mr. Hugh;33;1;Y;1;1
+1333;criminal;84;S;Hart;low;2015-04-01 00:00:00;2019-11-28 14:09:10;F.C.C. 13529;;resolved; Mr. Sinai;21;1;Y;0;1
+1949;civil;158;S;Eitemiller;low;2019-07-10 00:00:00;2019-11-30 16:53:37;29751;;pending; Miss. Luise Gretchen;68;0;Y;1;1
+1546;civil;55;S;Osen;high;2022-05-13 00:00:00;2019-12-02 14:47:02;7534;;pending; Miss. Erna Alexandra;29;2;N;1;0
+2022;civil;47;S;Gill;low;2024-01-14 00:00:00;2019-12-06 10:36:55;233866;;pending; Master. William Frederick;92;3;N;1;0
+1598;civil;8;S;Givard;low;2020-04-27 00:00:00;2019-12-12 14:12:37;250646;;pending; Miss. Elizabeth;67;2;N;1;0
+1214;criminal;249;S;Herman;low;2020-12-14 00:00:00;2019-12-15 15:02:18;220845;;resolved;" Miss. Ellen ""Nellie""";42;1;N;0;0
+1130;civil;129;S;Reed;high;2019-08-05 00:00:00;2019-12-17 16:37:29;362316;;pending; Mr. Alfonzo;32;3;Y;1;1
+1618;civil;237;Q;Kirkland;low;2024-01-03 00:00:00;2019-12-27 09:42:37;219533;;pending;" Mr. Francis ""Frank""";28;3;Y;1;1
+2034;criminal;186;S;Meanwell;high;2020-10-22 00:00:00;2019-12-27 14:49:29;SOTON/O.Q. 392087;;pending; Mr. Sidney Samuel;87;0;Y;0;1
+1677;criminal;127;S;Carter;low;2020-06-28 00:00:00;2019-12-30 09:47:57;244252;;pending; Rev. Thomas Roussel Davids;18;3;N;0;0
+1332;criminal;175;S;Olsson;high;2020-12-30 00:00:00;2020-01-08 16:29:00;350407;;pending; Mr. Karl Alfred;72;3;Y;0;1
+1622;criminal;273;C;Lurette;medium;2016-01-11 00:00:00;2020-01-09 10:50:36;PC 17569;B80;resolved; Mr. Samuel;24;1;N;0;0
+1758;civil;261;C;Saad;high;2024-06-20 00:00:00;2020-01-12 08:46:45;2671;;pending;" Mr. Howard Hugh ""Harry""";62;1;Y;1;1
+1690;civil;149;Q;Morrow;high;2023-02-27 00:00:00;2020-01-13 09:15:07;372622;;pending; Mr. Klas Albin;55;0;Y;1;1
+1860;civil;247;C;Stahelin-Maeglin;medium;2019-02-09 00:00:00;2020-01-16 15:43:21;13214;B50;resolved; Mr. Masabumi;39;0;Y;1;1
+1170;civil;224;S;Frauenthal;medium;2017-10-01 00:00:00;2020-01-19 14:13:29;PC 17611;;resolved; Mr. Emil;75;2;Y;1;1
+1515;civil;175;S;Marvin;medium;2023-04-12 00:00:00;2020-01-24 14:01:06;113773;D30;pending; Mr. Karl Alfred;72;3;Y;1;1
+1692;civil;278;C;Moubarek;high;2015-12-08 00:00:00;2020-01-25 13:48:09;2661;;resolved; Mr. Johan Hansen;86;3;Y;1;1
+1696;civil;235;C;Lemberopolous;high;2017-11-09 00:00:00;2020-01-26 11:05:25;2683;;pending; Miss. Kornelia Theodosia;33;0;Y;1;1
+1663;civil;60;Q;Burke;high;2018-06-15 00:00:00;2020-01-30 09:57:53;365222;;pending; Mr. Apostolos;57;2;Y;1;1
+2002;civil;226;S;Kalvik;high;2016-10-20 00:00:00;2020-01-30 16:25:41;8475;;pending; Miss. Delia;64;1;Y;1;1
+1077;criminal;189;Q;Bourke;high;2017-01-24 00:00:00;2020-02-14 14:19:06;364849;;pending; Mr. Victor Francis;90;1;Y;0;1
+1088;civil;121;C;Mamee;high;2023-07-11 00:00:00;2020-02-16 15:16:51;2677;;escalated; Mr. Victor;71;2;N;1;0
+1483;criminal;268;Q;Mannion;high;2016-03-11 00:00:00;2020-02-16 15:38:18;36866;;resolved; Mr. Ignjac;62;2;Y;0;1
+1206;civil;42;S;Allum;high;2018-07-07 00:00:00;2020-02-18 10:58:48;2223;;pending; Mr. Engelhart Cornelius;18;3;Y;1;1
+1251;civil;270;S;Lang;high;2017-08-04 00:00:00;2020-02-19 12:54:43;1601;;resolved; Miss. Helmina Josefina;33;0;Y;1;1
+1773;criminal;248;S;Jussila;high;2015-09-15 00:00:00;2020-02-21 08:48:20;4136;;pending; Miss. Kate;55;0;Y;0;1
+1724;criminal;89;S;Heininen;high;2020-10-29 00:00:00;2020-02-23 08:24:09;STON/O2. 3101290;;pending; Mr. Stoytcho;59;0;Y;0;1
+1298;criminal;11;S;Reynaldo;low;2023-04-16 00:00:00;2020-02-25 09:53:08;230434;;resolved; Miss. Hulda Amanda Adolfina;72;3;Y;0;1
+1179;criminal;222;Q;Moran;high;2015-07-01 00:00:00;2020-02-26 09:48:58;371110;;escalated; Mr. Thomas;77;1;Y;0;1
+1706;criminal;195;S;Landergren;high;2020-03-03 00:00:00;2020-02-29 08:31:38;C 7077;;resolved; Mr. William John;86;2;N;0;0
+1070;civil;243;S;Meo;high;2016-07-28 00:00:00;2020-03-02 16:08:33;A.5. 11206;;escalated; Mr. Richard William;44;1;Y;1;1
+1459;criminal;70;S;Sandstrom;high;2018-07-25 00:00:00;2020-03-03 12:17:00;PP 9549;G6;resolved; Mr. Francisco M;32;3;Y;0;1
+1672;criminal;140;Q;Carr;high;2024-05-25 00:00:00;2020-03-03 12:32:33;367231;;resolved; Master. Eino Viljami;60;3;N;0;0
+1771;civil;235;C;Uruchurtu;medium;2023-03-10 00:00:00;2020-03-05 16:08:33;PC 17601;;pending; Miss. Kornelia Theodosia;33;0;Y;1;1
+1204;civil;147;C;Thomas;high;2019-10-15 00:00:00;2020-03-13 11:29:46;2625;;resolved; Mr. Antti Wilhelm;57;0;Y;1;1
+1098;criminal;74;S;Turpin;low;2017-01-23 00:00:00;2020-03-14 10:40:57;11668;;pending; Miss. Mabel Helen;48;0;Y;0;1
+1167;criminal;21;S;Allen;medium;2017-03-08 00:00:00;2020-03-17 14:37:49;24160;B5;resolved; Mr. Charles Alexander;78;0;N;0;0
+1676;civil;113;S;Barton;high;2019-09-11 00:00:00;2020-03-25 15:51:42;324669;;pending; Mr. Johan;41;0;Y;1;1
+1922;civil;39;S;Sawyer;high;2024-06-12 00:00:00;2020-03-26 15:42:03;342826;;pending; Mr. Youssef;89;0;N;1;0
+1506;criminal;66;S;Angle;low;2022-01-23 00:00:00;2020-04-06 08:04:51;226875;;resolved; Miss. Elizabeth;78;1;Y;0;1
+1888;civil;131;S;Dean;high;2022-10-18 00:00:00;2020-04-06 16:21:22;C.A. 2315;;resolved; Mr. Ole Martin;34;0;Y;1;1
+1146;civil;115;C;Goldschmidt;medium;2023-08-10 00:00:00;2020-04-10 11:31:55;PC 17754;A5;escalated; Mr. Domingos Fernandeo;19;1;Y;1;1
+1906;civil;76;C;Meyer;medium;2021-05-21 00:00:00;2020-04-11 14:47:37;PC 17604;;escalated; Mr. Emil;20;3;Y;1;1
+1987;criminal;50;C;Hays;medium;2017-01-20 00:00:00;2020-04-12 09:58:28;11767;C54;resolved; Mr. Henry Birkhardt;73;0;N;0;0
+1525;civil;228;S;Skoog;high;2021-05-08 00:00:00;2020-04-13 10:56:04;347088;;pending; Mr. Ernesti Arvid;52;0;Y;1;1
+1162;criminal;71;S;Hamalainen;low;2022-03-15 00:00:00;2020-04-25 11:44:10;250649;;resolved; Miss. Bertha;90;0;Y;0;1
+1219;criminal;251;C;Aubart;medium;2015-03-23 00:00:00;2020-05-04 10:58:57;PC 17477;B35;resolved; Miss. Aloisia;81;0;Y;0;1
+1415;civil;234;S;Jensen;high;2022-03-01 00:00:00;2020-05-08 10:02:21;350047;;pending;" Miss. Hanora ""Nora""";56;3;Y;1;1
+1919;civil;117;C;Elias;high;2017-12-26 00:00:00;2020-05-12 09:30:58;2674;;pending; Mr. Emile;47;3;Y;1;1
+1486;civil;55;C;Drazenoic;high;2024-05-19 00:00:00;2020-05-12 15:24:37;349241;;pending; Miss. Erna Alexandra;29;2;N;1;0
+2010;criminal;263;S;Ridsdale;low;2018-04-08 00:00:00;2020-05-13 09:24:12;W./C. 14258;;resolved; Miss. Margaret;77;2;Y;0;1
+1374;civil;48;S;Hagland;high;2023-01-15 00:00:00;2020-05-18 11:47:20;65304;;pending; Mr. Orsen;92;0;Y;1;1
+1982;civil;121;S;Sivola;high;2019-05-29 00:00:00;2020-05-21 11:03:42;STON/O 2. 3101280;;pending; Mr. Victor;71;2;N;1;0
+1067;civil;106;S;Lovell;high;2017-05-20 00:00:00;2020-05-31 16:51:53;A/5 21173;;pending; Mr. Nicholas;43;3;Y;1;1
+1097;civil;180;S;Johansson;high;2017-09-30 00:00:00;2020-06-03 15:04:45;7540;;pending; Miss. Clear Annie;55;0;Y;1;1
+2018;civil;175;S;Kvillner;low;2023-02-24 00:00:00;2020-06-07 09:50:15;C.A. 18723;;pending; Mr. Karl Alfred;72;3;Y;1;1
+1611;civil;172;S;Otter;low;2018-03-02 00:00:00;2020-06-09 14:46:36;28213;;escalated; Mr. Gerious;39;3;Y;1;1
+1171;criminal;214;S;Johnson;high;2017-05-17 00:00:00;2020-06-12 12:52:25;347742;;resolved; Mr. Richard Leonard;54;3;Y;0;1
+1633;civil;206;Q;Flynn;high;2018-03-12 00:00:00;2020-06-22 08:02:24;364851;;pending; Mr. George Henry;55;1;Y;1;1
+2005;civil;146;S;Milling;low;2017-10-21 00:00:00;2020-07-07 11:43:52;234360;;pending; Miss. Eleanor Ileen;60;2;N;1;0
+1157;civil;139;S;Giles;low;2016-06-12 00:00:00;2020-07-07 11:56:50;28134;;pending; Mr. Jovo;53;1;Y;1;1
+1781;civil;162;S;Cann;high;2021-12-30 00:00:00;2020-07-11 15:06:12;A./5. 2152;;escalated; Mr. William;29;2;N;1;0
+1084;civil;211;S;Somerton;high;2021-04-08 00:00:00;2020-07-18 09:46:31;A.5. 18509;;pending; Mr. Sleiman;33;2;Y;1;1
+1689;civil;141;S;Chambers;medium;2019-07-18 00:00:00;2020-08-05 16:20:38;113806;E8;resolved;" Master. Frank John William ""Frankie""";31;1;N;1;0
+2041;criminal;194;S;Fortune;medium;2017-09-16 00:00:00;2020-08-13 12:30:49;19950;C23 C25 C27;resolved; Mr. Karl Ivar Sven;33;0;Y;0;1
+1078;civil;70;C;Cardeza;medium;2021-10-24 00:00:00;2020-08-14 15:59:20;PC 17755;B51 B53 B55;resolved; Mr. Francisco M;32;3;Y;1;1
+1738;criminal;182;S;Stanley;high;2016-01-12 00:00:00;2020-08-15 10:23:05;CA. 2314;;resolved; Mr. Hans Kristensen;45;1;N;0;0
+1715;civil;33;S;Silverthorne;medium;2022-05-16 00:00:00;2020-08-22 15:35:51;PC 17475;E24;resolved; Mr. Theodor;28;0;Y;1;1
+1214;civil;205;S;Slabenoff;high;2019-05-29 00:00:00;2020-08-28 16:04:31;349214;;pending; Mr. Frederick William;83;0;Y;1;1
+1264;civil;208;S;Lulic;high;2016-10-18 00:00:00;2020-08-29 08:03:42;315098;;resolved;" Miss. Katherine ""Kate""";24;2;Y;1;1
+1118;civil;182;S;Andersson;high;2016-01-02 00:00:00;2020-08-30 13:52:36;347082;;escalated; Mr. Hans Kristensen;45;1;N;1;0
+1434;criminal;152;S;Nysten;high;2018-09-28 00:00:00;2020-09-01 15:31:49;347081;;resolved; Mr. Reginald;68;0;N;0;0
+1661;civil;49;C;Giglio;medium;2021-11-11 00:00:00;2020-09-02 09:39:19;PC 17593;B86;pending; Miss. Amelie;86;2;Y;1;1
+1263;civil;153;S;Hickman;low;2024-12-28 00:00:00;2020-09-05 16:22:13;S.O.C. 14879;;pending; Mr. Lionel;61;3;Y;1;1
+1594;civil;64;S;Birkeland;high;2019-06-15 00:00:00;2020-09-15 11:03:16;312992;;pending; Mr. Rahamin Haim;56;0;Y;1;1
+1598;criminal;37;C;Francatelli;medium;2018-11-14 00:00:00;2020-09-16 09:31:32;PC 17485;E36;resolved; Mr. Denis;80;3;Y;0;1
+1648;civil;60;S;Dean;high;2023-06-22 00:00:00;2020-09-17 15:11:48;C.A. 2315;;pending; Mr. Apostolos;57;2;Y;1;1
+1264;criminal;7;S;Ford;high;2016-12-06 00:00:00;2020-09-19 09:32:07;W./C. 6608;;pending; Miss. Marguerite Rut;90;3;Y;0;1
+1320;civil;50;C;Mallet;low;2020-06-25 00:00:00;2020-09-21 16:07:49;S.C./PARIS 2079;;resolved; Mr. Henry Birkhardt;73;0;N;1;0
+1145;civil;200;S;Pasic;high;2022-10-16 00:00:00;2020-09-23 13:32:36;315097;;pending; Miss. Lillian Gertrud;91;0;Y;1;1
+1895;criminal;161;S;Kelly;low;2022-05-07 00:00:00;2020-09-25 16:30:35;223596;;resolved; Mr. Stjepan;80;0;Y;0;1
+1626;civil;162;Q;Minahan;medium;2017-04-30 00:00:00;2020-10-15 08:42:35;19928;C78;pending; Mr. William;29;2;N;1;0
+1675;civil;129;S;Dahl;high;2017-09-30 00:00:00;2020-10-16 08:02:24;7598;;resolved; Mr. Alfonzo;32;3;Y;1;1
+1910;civil;118;C;Yousif;high;2020-07-14 00:00:00;2020-10-17 15:06:46;2647;;pending; Miss. Helen Monypeny;28;0;Y;1;1
+1186;criminal;178;S;Andersson;high;2018-08-10 00:00:00;2020-10-20 09:17:51;347082;;pending; Mr. Henry;38;2;Y;0;1
+1977;civil;252;S;Porter;medium;2019-08-11 00:00:00;2020-10-25 13:11:34;110465;C110;escalated; Mr. Ivan;60;1;N;1;0
+1832;civil;20;Q;Bourke;high;2019-02-06 00:00:00;2020-11-03 13:09:42;364849;;pending; Mr. Farred Chehab;71;0;Y;1;1
+1247;criminal;14;S;Rothes;medium;2016-07-06 00:00:00;2020-11-13 15:53:34;110152;B77;resolved; Mrs. Fatima;46;2;Y;0;1
+1288;civil;223;S;Harris;low;2022-11-11 00:00:00;2020-11-14 15:57:36;W/C 14208;;pending; Master. Edvin Rojj Felix;31;2;Y;1;1
+1399;civil;96;S;Cook;high;2016-08-06 00:00:00;2020-11-26 09:26:56;A/5 3536;;pending; Mr. David John;75;0;Y;1;1
+2035;civil;179;Q;Smith;high;2024-12-25 00:00:00;2020-11-30 13:48:43;384461;;pending; Mr. Ahmed;21;1;Y;1;1
+1210;civil;251;S;Rush;high;2023-02-14 00:00:00;2020-12-01 10:41:31;A/4. 20589;;pending; Miss. Aloisia;81;0;Y;1;1
+1579;civil;208;S;Nirva;high;2018-01-23 00:00:00;2020-12-03 15:46:39;SOTON/O2 3101272;;pending;" Miss. Katherine ""Kate""";24;2;Y;1;1
+1099;civil;72;S;Hoyt;medium;2021-04-16 00:00:00;2020-12-04 10:53:20;19943;C93;resolved; Mr. William Neal;85;3;N;1;0
+1861;criminal;249;S;Barber;medium;2018-06-27 00:00:00;2020-12-04 13:06:32;19877;;resolved;" Miss. Ellen ""Nellie""";42;1;N;0;0
+1502;criminal;228;S;Lemore;low;2020-04-04 00:00:00;2020-12-05 11:35:05;C.A. 34260;F33;resolved; Mr. Ernesti Arvid;52;0;Y;0;1
+1753;civil;46;S;Woolner;medium;2022-11-05 00:00:00;2020-12-07 13:04:57;19947;C52;resolved; Miss. Constance Mirium;67;3;Y;1;1
+1674;civil;193;S;Lobb;high;2020-03-11 00:00:00;2020-12-11 08:24:35;A/5. 3336;;pending; Mr. Frederick Maxfield;46;1;Y;1;1
+1326;civil;150;S;Corn;high;2016-08-12 00:00:00;2020-12-17 12:31:32;SOTON/OQ 392090;;pending; Master. Henry Forbes;77;0;Y;1;1
+1903;civil;188;S;Weir;medium;2016-09-23 00:00:00;2020-12-18 09:03:45;113800;;pending; Mr. Walter;53;1;N;1;0
+1208;civil;7;S;Frost;low;2019-02-12 00:00:00;2020-12-18 10:07:15;239854;;pending; Miss. Marguerite Rut;90;3;Y;1;1
+1971;civil;112;S;Kallio;high;2018-06-28 00:00:00;2020-12-20 08:32:04;STON/O 2. 3101274;;pending; Miss. Anna;43;2;Y;1;1
+2021;civil;125;S;Carlsson;high;2018-07-05 00:00:00;2020-12-20 09:35:51;350042;;pending; Mr. Joseph Charles;49;2;Y;1;1
+1539;civil;87;S;Harper;low;2024-12-23 00:00:00;2020-12-23 08:18:32;248727;;pending; Mr. Gustaf Joel;64;0;N;1;0
+1381;criminal;224;Q;Hegarty;high;2015-11-11 00:00:00;2020-12-30 08:10:36;365226;;pending; Mr. Emil;75;2;Y;0;1
+1180;civil;130;S;Hendekovic;high;2016-01-11 00:00:00;2021-01-10 09:41:54;349243;;pending; Mr. Austin Blyler;84;1;Y;1;1
+1073;civil;104;S;Vovk;high;2017-02-27 00:00:00;2021-02-02 11:13:03;349252;;pending; Mr. Stanley George;60;2;Y;1;1
+1209;civil;97;S;Palsson;high;2020-10-30 00:00:00;2021-02-11 10:45:59;349909;;pending; Miss. Katriina;41;1;Y;1;1
+1873;civil;175;S;Coleff;high;2017-07-25 00:00:00;2021-02-14 13:41:57;349210;;pending; Mr. Karl Alfred;72;3;Y;1;1
+1454;civil;104;Q;Hart;high;2020-08-22 00:00:00;2021-02-18 15:24:29;394140;;pending; Mr. Stanley George;60;2;Y;1;1
+1994;criminal;45;C;Cumings;medium;2023-07-30 00:00:00;2021-02-24 12:56:18;PC 17599;C85;resolved; Mr. Mansouer;20;3;Y;0;1
+2028;civil;75;S;Bryhl;low;2021-07-18 00:00:00;2021-02-25 16:20:04;236853;;pending; Mr. Francesco;59;1;N;1;0
+1527;civil;268;S;Petterson;high;2015-07-25 00:00:00;2021-02-28 11:19:32;347076;;pending; Mr. Ignjac;62;2;Y;1;1
+1869;criminal;168;S;Watt;low;2024-04-03 00:00:00;2021-03-03 15:18:52;C.A. 33595;;resolved;" Miss. Margaret ""Maggie""";54;1;Y;0;1
+1625;civil;54;C;Artagaveytia;medium;2018-01-28 00:00:00;2021-03-05 14:36:32;PC 17609;;pending; Mr. Ernest James;41;3;N;1;0
+1450;criminal;83;S;Perreault;medium;2015-08-27 00:00:00;2021-03-07 10:35:02;12749;B73;resolved; Mr. William Bertram;40;3;Y;0;1
+1219;civil;53;S;Leonard;high;2022-10-31 00:00:00;2021-03-08 11:37:32;LINE;;pending; Master. Gerios;19;0;Y;1;1
+1537;criminal;217;C;Nakid;high;2016-02-26 00:00:00;2021-03-09 12:13:58;2653;;resolved; Mr. William Thomas;66;0;Y;0;1
+1463;civil;206;S;White;medium;2019-08-27 00:00:00;2021-03-15 08:42:35;35281;D26;escalated; Mr. George Henry;55;1;Y;1;1
+1570;civil;159;S;Ali;high;2022-08-29 00:00:00;2021-03-20 12:09:13;SOTON/O.Q. 3101312;;pending; Mr. Hugh Roscoe;60;2;Y;1;1
+1942;criminal;226;;Icard;medium;2019-03-22 00:00:00;2021-03-22 16:32:10;113572;B28;resolved; Miss. Delia;64;1;Y;0;1
+1716;criminal;127;S;Madill;medium;2023-06-27 00:00:00;2021-03-25 12:27:39;24160;B5;resolved; Rev. Thomas Roussel Davids;18;3;N;0;0
+1524;civil;257;S;Brown;low;2019-02-05 00:00:00;2021-03-29 16:15:53;29750;;pending;" Miss. Anna Katherine ""Annie Kate""";50;1;Y;1;1
+1414;criminal;144;C;Mayne;medium;2016-07-02 00:00:00;2021-03-30 15:54:35;PC 17482;C90;resolved; Mr. Wyckoff;76;3;Y;0;1
+1823;civil;164;S;Berriman;low;2024-06-30 00:00:00;2021-03-31 12:04:45;28425;;pending; Master. Michel M;64;0;Y;1;1
+1573;civil;267;S;Hosono;low;2023-06-10 00:00:00;2021-04-21 09:24:03;237798;;resolved; Miss. Emily Borie;42;0;Y;1;1
+1391;civil;276;S;Smiljanic;high;2017-09-30 00:00:00;2021-04-30 10:33:10;315037;;pending; Mr. George John Jr;28;1;Y;1;1
+1770;civil;224;Q;Flynn;high;2020-05-11 00:00:00;2021-05-03 08:55:15;368323;;pending; Mr. Emil;75;2;Y;1;1
+2026;civil;13;S;Rommetvedt;high;2015-12-14 00:00:00;2021-05-03 10:41:05;312993;;pending; Mr. Charles Eugene;49;2;N;1;0
+1151;civil;85;S;Adahl;high;2020-08-16 00:00:00;2021-05-03 12:36:35;C 7076;;pending; Miss. Matilda;67;2;Y;1;1
+1509;civil;59;S;Skoog;high;2023-04-14 00:00:00;2021-05-12 10:04:39;347088;;escalated; Mr. Ambrose Jr;52;2;Y;1;1
+1258;criminal;226;C;Duran y More;low;2017-03-02 00:00:00;2021-05-12 11:46:11;SC/PARIS 2149;;resolved; Miss. Delia;64;1;Y;0;1
+1153;civil;29;S;Smart;medium;2019-09-09 00:00:00;2021-05-13 10:00:37;113792;;pending; Mr. Hanna;74;0;Y;1;1
+1686;civil;183;S;Sharp;low;2024-06-07 00:00:00;2021-05-15 14:53:40;244358;;pending; Mr. Philip;30;3;Y;1;1
+1882;civil;106;C;Saad;high;2024-09-27 00:00:00;2021-05-20 10:11:51;2672;;pending; Mr. Nicholas;43;3;Y;1;1
+1611;civil;111;C;Kraeff;high;2022-06-11 00:00:00;2021-06-08 12:21:10;349253;;pending; Mr. Fridtjof Arne;67;3;Y;1;1
+1410;criminal;9;C;Baxter;medium;2017-10-23 00:00:00;2021-06-10 13:35:46;PC 17558;B58 B60;resolved; Mr. William Henry;37;3;Y;0;1
+1655;criminal;269;Q;McGowan;high;2023-09-16 00:00:00;2021-06-12 13:09:16;330923;;resolved; Mr. Benjamin;64;2;Y;0;1
+1687;criminal;183;S;Carter;medium;2020-03-09 00:00:00;2021-06-13 09:23:02;113760;B96 B98;resolved; Mr. Philip;30;3;Y;0;1
+1576;criminal;252;C;Bidois;medium;2015-05-08 00:00:00;2021-06-13 15:19:00;PC 17757;;resolved; Mr. Ivan;60;1;N;0;0
+1807;criminal;197;Q;Madigan;high;2015-11-19 00:00:00;2021-06-17 08:08:27;370370;;resolved; Miss. Mathilde;33;3;Y;0;1
+1534;civil;221;S;Nosworthy;high;2015-12-06 00:00:00;2021-06-28 13:09:16;A/4. 39886;;pending; Miss. Anna;83;0;Y;1;1
+1420;criminal;195;;Stone;medium;2023-03-02 00:00:00;2021-07-07 15:42:46;113572;B28;resolved; Mr. William John;86;2;N;0;0
+1546;civil;22;S;Holm;high;2021-04-22 00:00:00;2021-07-20 09:31:32;C 7075;;pending;" Miss. Ellen ""Nellie""";35;2;N;1;0
+1484;civil;263;S;Gronnestad;high;2021-03-09 00:00:00;2021-07-23 10:32:53;8471;;pending; Miss. Margaret;77;2;Y;1;1
+1620;civil;145;S;Jarvis;low;2016-02-02 00:00:00;2021-07-25 16:59:57;237565;;pending; Master. Arthur;20;3;Y;1;1
+1224;civil;187;S;Romaine;medium;2019-06-13 00:00:00;2021-07-30 09:48:23;111428;;resolved; Miss. Albina;41;0;Y;1;1
+1444;criminal;235;S;Taussig;medium;2024-04-09 00:00:00;2021-07-31 12:32:15;110413;E67;resolved; Miss. Kornelia Theodosia;33;0;Y;0;1
+1351;civil;261;C;Frolicher-Stehli;medium;2017-12-31 00:00:00;2021-08-01 11:54:40;13567;B41;resolved;" Mr. Howard Hugh ""Harry""";62;1;Y;1;1
+1454;civil;187;S;Jonsson;high;2024-10-10 00:00:00;2021-08-03 13:20:56;350417;;resolved; Miss. Albina;41;0;Y;1;1
+2001;civil;67;S;Renouf;low;2020-11-03 00:00:00;2021-08-06 13:05:23;31027;;pending; Mr. Achille;65;3;Y;1;1
+1626;civil;47;S;Turcin;high;2024-07-01 00:00:00;2021-08-14 15:05:37;349247;;pending; Master. William Frederick;92;3;N;1;0
+1660;civil;71;S;Carter;medium;2017-05-11 00:00:00;2021-08-14 16:58:13;113760;B96 B98;resolved; Miss. Bertha;90;0;Y;1;1
+1810;civil;83;S;Davies;low;2022-11-11 00:00:00;2021-08-16 11:40:25;S.O.C. 14879;;pending; Mr. William Bertram;40;3;Y;1;1
+1212;civil;6;S;Nankoff;high;2016-04-14 00:00:00;2021-08-17 13:00:55;349218;;pending; Master. Gosta Leonard;51;3;Y;1;1
+1178;civil;250;S;Bailey;low;2015-07-01 00:00:00;2021-08-24 09:51:07;29108;;escalated; Mr. Rene Jacques;82;3;Y;1;1
+1924;criminal;10;S;Strom;high;2018-03-31 00:00:00;2021-08-28 10:27:42;347054;G6;pending; Mr. Anders Johan;47;2;Y;0;1
+1286;criminal;15;C;Astor;medium;2017-05-06 00:00:00;2021-08-28 11:39:59;PC 17757;C62 C64;resolved; Mr. Joseph J;56;2;Y;0;1
+1526;civil;67;S;Peduzzi;high;2020-07-27 00:00:00;2021-08-30 11:52:57;A/5 2817;;pending; Mr. Achille;65;3;Y;1;1
+2050;civil;59;C;Simonius-Blumer;medium;2024-01-14 00:00:00;2021-08-31 11:11:20;13213;A26;resolved; Mr. Ambrose Jr;52;2;Y;1;1
+1472;civil;15;S;Fahlstrom;low;2019-05-19 00:00:00;2021-09-03 08:26:18;236171;;pending; Mr. Joseph J;56;2;Y;1;1
+1724;civil;177;C;Lahoud;high;2023-12-19 00:00:00;2021-09-04 11:48:20;2624;;pending;" Miss. Helen ""Ellen""";48;1;N;1;0
+1696;criminal;92;C;Zabour;high;2015-01-07 00:00:00;2021-09-06 09:37:35;2665;;pending; Mr. Tido;37;0;Y;0;1
+1257;civil;29;S;Flynn;medium;2015-04-21 00:00:00;2021-09-08 10:07:58;PC 17474;E25;resolved; Mr. Hanna;74;0;Y;1;1
+1942;criminal;99;C;Nicola-Yarred;high;2023-11-05 00:00:00;2021-09-11 14:00:58;2651;;escalated; Mr. Edvard;19;3;Y;0;1
+1487;criminal;75;S;Mack;low;2020-05-16 00:00:00;2021-09-16 09:18:00;S.O./P.P. 3;E77;escalated; Mr. Francesco;59;1;N;0;0
+1414;civil;277;S;Panula;high;2023-02-10 00:00:00;2021-09-20 16:17:11;3101295;;pending; Miss. Marie Grice;55;3;Y;1;1
+1926;civil;272;S;Sheerlinck;high;2016-09-06 00:00:00;2021-09-25 10:13:52;345779;;resolved; Miss. Mary Natalie;80;1;N;1;0
+1734;civil;108;S;Patchett;high;2021-12-09 00:00:00;2021-09-28 13:03:30;358585;;pending; Mr. Percival Wayland;60;1;N;1;0
+1947;criminal;258;S;Ahlin;high;2020-03-24 00:00:00;2021-09-29 10:51:27;7546;;pending; Mr. Bernard;47;1;Y;0;1
+1450;criminal;59;S;Sage;high;2023-08-06 00:00:00;2021-10-03 13:55:21;CA. 2343;;pending; Mr. Ambrose Jr;52;2;Y;0;1
+1955;criminal;152;S;Fortune;medium;2021-02-16 00:00:00;2021-10-06 11:10:19;19950;C23 C25 C27;resolved; Mr. Reginald;68;0;N;0;0
+1999;criminal;64;S;Brown;low;2024-05-03 00:00:00;2021-10-12 08:44:01;29750;;resolved; Mr. Rahamin Haim;56;0;Y;0;1
+1284;civil;212;Q;Rice;high;2022-07-10 00:00:00;2021-10-12 11:04:42;382652;;pending; Dr. William Edward;40;2;Y;1;1
+1388;civil;191;S;Foo;high;2024-03-29 00:00:00;2021-10-14 10:42:32;1601;;resolved; Mr. George Henry;39;0;N;1;0
+1312;civil;123;S;Vande Walle;high;2016-04-15 00:00:00;2021-10-26 09:57:19;345770;;pending; Mr. Jeremiah;29;1;Y;1;1
+1138;criminal;253;S;Cleaver;medium;2017-06-03 00:00:00;2021-10-26 12:38:27;113781;;resolved; Mr. Ervin G;54;0;Y;0;1
+1232;civil;139;S;Beckwith;medium;2016-12-05 00:00:00;2021-11-12 12:07:38;11751;D35;resolved; Mr. Jovo;53;1;Y;1;1
+1223;civil;152;S;Taylor;medium;2021-01-10 00:00:00;2021-11-15 11:20:41;19996;C126;resolved; Mr. Reginald;68;0;N;1;0
+1443;criminal;169;S;Dick;medium;2016-10-25 00:00:00;2021-11-20 08:35:05;17474;B20;resolved; Mr. Nestor Cyriel;83;2;Y;0;1
+1443;criminal;124;S;Weisz;low;2023-04-08 00:00:00;2021-12-10 09:16:34;228414;;resolved; Mr. Edgardo Samuel;72;2;Y;0;1
+1485;criminal;220;C;Masselmani;high;2018-03-13 00:00:00;2021-12-18 10:05:14;2649;;resolved; Miss. Gladys;48;1;Y;0;1
+1755;civil;140;S;Gustafsson;high;2018-07-20 00:00:00;2021-12-22 16:11:08;3101276;;pending; Master. Eino Viljami;60;3;N;1;0
+1133;criminal;171;S;Ohman;high;2020-11-26 00:00:00;2021-12-23 13:17:54;347085;;resolved; Mr. Jakob Alfred;66;1;Y;0;1
+1115;criminal;72;C;Nasser;low;2024-11-04 00:00:00;2021-12-29 11:37:24;237736;;resolved; Mr. William Neal;85;3;N;0;0
+1151;civil;245;S;Jensen;high;2020-05-05 00:00:00;2022-01-04 10:56:56;350050;;pending; Mr. Theodore;82;1;Y;1;1
+1206;criminal;68;S;Toomey;low;2016-04-13 00:00:00;2022-01-10 10:01:03;F.C.C. 13531;;resolved; Mr. Jan Baptist;26;3;Y;0;1
+1400;civil;145;S;Davidson;medium;2024-09-09 00:00:00;2022-01-10 10:05:14;F.C. 12750;B71;pending; Master. Arthur;20;3;Y;1;1
+1784;civil;213;C;Albimona;high;2019-08-06 00:00:00;2022-01-16 12:03:01;2699;;resolved; Miss. Agda Thorilda Viktoria;24;2;N;1;0
+1834;civil;64;S;Goodwin;high;2017-05-01 00:00:00;2022-01-16 16:07:32;CA 2144;;pending; Mr. Rahamin Haim;56;0;Y;1;1
+1215;criminal;217;C;Peter;high;2018-01-07 00:00:00;2022-01-17 09:13:41;2668;;resolved; Mr. William Thomas;66;0;Y;0;1
+1696;civil;122;C;Moubarek;high;2020-07-10 00:00:00;2022-01-24 08:06:52;2661;;resolved; Miss. Anna Sofia;92;3;Y;1;1
+1306;civil;180;S;Richards;low;2019-03-22 00:00:00;2022-01-27 13:57:39;29106;;resolved; Miss. Clear Annie;55;0;Y;1;1
+1176;criminal;90;C;Ryerson;medium;2020-02-08 00:00:00;2022-02-19 13:10:34;PC 17608;B57 B59 B63 B66;resolved; Miss. Anna Kristine;51;2;N;0;0
+1699;civil;176;S;Jacobsohn;low;2022-12-10 00:00:00;2022-02-24 12:32:15;243847;;pending; Mr. Nassef Cassem;52;2;Y;1;1
+1051;civil;145;S;Svensson;high;2020-10-15 00:00:00;2022-02-24 16:57:30;347060;;pending; Master. Arthur;20;3;Y;1;1
+1869;civil;63;Q;Connors;high;2015-07-14 00:00:00;2022-02-25 11:29:46;370369;;escalated; Mr. Ivan;85;3;Y;1;1
+1762;civil;276;S;Sage;high;2019-06-22 00:00:00;2022-03-02 15:29:14;CA. 2343;;pending; Mr. George John Jr;28;1;Y;1;1
+1097;civil;7;S;Rouse;high;2022-03-10 00:00:00;2022-03-03 11:35:40;A/5 3594;;pending; Miss. Marguerite Rut;90;3;Y;1;1
+1353;criminal;89;C;Touma;high;2022-04-24 00:00:00;2022-03-13 15:58:28;2650;;resolved; Mr. Stoytcho;59;0;Y;0;1
+1596;civil;195;S;Tornquist;high;2017-10-24 00:00:00;2022-03-15 13:02:12;LINE;;resolved; Mr. William John;86;2;N;1;0
+1496;civil;79;S;Millet;medium;2017-10-16 00:00:00;2022-03-19 14:11:28;13509;E38;pending; Mr. Bertram Frank;22;1;Y;1;1
+1461;civil;24;S;Maenpaa;high;2021-06-23 00:00:00;2022-03-25 15:03:53;STON/O 2. 3101275;;pending; Don. Manuel E;35;0;Y;1;1
+1948;civil;165;C;Mallet;low;2016-03-04 00:00:00;2022-03-27 11:50:04;S.C./PARIS 2079;;pending; Miss. Elise;67;1;Y;1;1
+1848;civil;146;S;Gale;low;2023-08-03 00:00:00;2022-03-29 10:40:05;28664;;pending; Miss. Eleanor Ileen;60;2;N;1;0
+1085;civil;2;S;Andrew;low;2022-09-27 00:00:00;2022-04-14 12:37:52;231945;;pending; Miss. Laina;40;0;Y;1;1
+1459;criminal;145;S;Jacobsohn;low;2023-07-10 00:00:00;2022-04-17 11:34:31;243847;;resolved; Master. Arthur;20;3;Y;0;1
+1277;civil;174;S;Panula;high;2021-02-07 00:00:00;2022-04-19 16:15:01;3101295;;pending; Miss. Telma Matilda;36;3;N;1;0
+1562;civil;170;S;Coelho;high;2024-09-11 00:00:00;2022-04-28 12:09:13;SOTON/O.Q. 3101307;;pending; Mr. Frederick;40;3;N;1;0
+1616;civil;119;S;Mitchell;low;2018-02-09 00:00:00;2022-05-01 10:34:45;C.A. 24580;;pending; Mr. Jacques Heath;41;3;Y;1;1
+1536;civil;268;S;Meyer;low;2021-07-22 00:00:00;2022-05-04 14:08:18;248723;;pending; Mr. Ignjac;62;2;Y;1;1
+1990;civil;134;C;Lesurer;medium;2019-04-02 00:00:00;2022-05-08 11:36:49;PC 17755;B101;resolved; Mr. Harry;91;3;N;1;0
+1853;civil;192;C;Boulos;high;2024-04-28 00:00:00;2022-05-09 15:24:03;2664;;pending; Mr. Christo;43;1;Y;1;1
+1581;criminal;214;S;Doling;low;2022-09-06 00:00:00;2022-05-18 10:56:21;231919;;escalated; Mr. Richard Leonard;54;3;Y;0;1
+1784;civil;219;S;Braund;high;2020-05-27 00:00:00;2022-05-24 13:17:37;A/5 21171;;pending; Mrs. Gertrude Maybelle;52;1;Y;1;1
+1411;civil;271;S;Jensen;high;2019-08-21 00:00:00;2022-05-25 09:21:19;350048;;pending; Dr. Ernest;53;2;Y;1;1
+1181;civil;190;S;Simmons;high;2022-11-24 00:00:00;2022-05-25 09:51:50;SOTON/OQ 392082;;pending; Mr. James H;28;1;Y;1;1
+2005;civil;71;S;Hale;low;2024-12-21 00:00:00;2022-05-26 16:18:37;250653;;pending; Miss. Bertha;90;0;Y;1;1
+1760;civil;92;S;Goodwin;high;2024-03-10 00:00:00;2022-05-27 11:52:22;CA 2144;;pending; Mr. Tido;37;0;Y;1;1
+1799;civil;37;S;Harmer;high;2017-01-10 00:00:00;2022-05-28 12:56:01;374887;;pending; Mr. Denis;80;3;Y;1;1
+1147;civil;55;S;Wilhelms;low;2016-04-21 00:00:00;2022-05-30 10:24:23;244270;;resolved; Miss. Erna Alexandra;29;2;N;1;0
+1987;civil;187;C;Ringhini;medium;2015-08-03 00:00:00;2022-05-30 16:50:53;PC 17760;;pending; Miss. Albina;41;0;Y;1;1
+1324;civil;241;S;Coleridge;low;2019-03-16 00:00:00;2022-05-31 15:18:09;W./C. 14263;;pending; Mr. Alfons;31;1;Y;1;1
+1567;civil;219;C;Ross;medium;2016-08-03 00:00:00;2022-06-08 10:49:52;13049;A10;pending; Mrs. Gertrude Maybelle;52;1;Y;1;1
+1955;civil;193;S;Wright;medium;2024-09-16 00:00:00;2022-06-08 13:08:07;113807;;pending; Mr. Frederick Maxfield;46;1;Y;1;1
+1238;civil;165;C;Samaan;high;2023-02-27 00:00:00;2022-06-18 09:37:52;2662;;pending; Miss. Elise;67;1;Y;1;1
+1343;civil;84;C;Penasco y Castellana;medium;2022-02-12 00:00:00;2022-06-18 15:15:42;PC 17758;C65;pending; Mr. Sinai;21;1;Y;1;1
+1676;civil;81;S;Harrison;medium;2019-01-14 00:00:00;2022-06-20 16:12:35;112059;B94;pending; Mr. Charles Joseph;35;2;Y;1;1
+1286;criminal;251;S;Emanuel;high;2022-05-28 00:00:00;2022-06-21 12:07:12;364516;;resolved; Miss. Aloisia;81;0;Y;0;1
+1102;criminal;47;S;Ball;low;2022-03-24 00:00:00;2022-06-25 11:34:57;28551;D;resolved; Master. William Frederick;92;3;N;0;0
+1616;criminal;158;S;Quick;low;2024-03-30 00:00:00;2022-06-26 15:25:55;26360;;resolved; Miss. Luise Gretchen;68;0;Y;0;1
+2028;criminal;278;Q;O'Driscoll;high;2024-08-29 00:00:00;2022-07-04 09:30:58;14311;;resolved; Mr. Johan Hansen;86;3;Y;0;1
+1584;civil;33;S;Silvey;medium;2021-05-07 00:00:00;2022-07-05 09:20:01;13507;E44;pending; Mr. Theodor;28;0;Y;1;1
+1456;civil;20;Q;Lennon;high;2024-11-24 00:00:00;2022-07-07 13:44:07;370371;;pending; Mr. Farred Chehab;71;0;Y;1;1
+1288;criminal;28;S;Lefebre;high;2024-10-17 00:00:00;2022-07-11 11:31:38;4133;;pending; Mr. Alexander Oskar;73;0;Y;0;1
+1999;civil;68;C;Hassab;medium;2023-06-06 00:00:00;2022-07-30 13:37:47;PC 17572;D49;resolved; Mr. Jan Baptist;26;3;Y;1;1
+1991;civil;275;C;Thayer;medium;2024-04-26 00:00:00;2022-07-30 16:08:07;17421;C70;resolved; Miss. Hilda Mary;86;3;Y;1;1
+1433;criminal;273;S;Ilmakangas;high;2019-12-03 00:00:00;2022-07-31 10:10:42;STON/O2. 3101271;;pending; Mr. Samuel;24;1;N;0;0
+1915;civil;191;S;Gavey;low;2019-09-02 00:00:00;2022-08-10 10:29:34;31028;;pending; Mr. George Henry;39;0;N;1;0
+1863;civil;252;S;Goncalves;high;2021-11-25 00:00:00;2022-08-13 13:48:00;SOTON/O.Q. 3101306;;pending; Mr. Ivan;60;1;N;1;0
+1092;civil;76;S;McCarthy;medium;2016-01-30 00:00:00;2022-08-14 13:34:11;17463;E46;pending; Mr. Emil;20;3;Y;1;1
+1595;civil;224;C;Kassem;high;2024-10-28 00:00:00;2022-08-14 15:23:28;2700;;pending; Mr. Emil;75;2;Y;1;1
+1267;civil;150;S;Downton;low;2021-06-22 00:00:00;2022-08-18 14:47:02;28403;;pending; Master. Henry Forbes;77;0;Y;1;1
+1812;civil;133;S;Harris;medium;2021-03-12 00:00:00;2022-08-25 11:24:52;36973;C83;pending;" Miss. Katherine ""Katie""";61;0;N;1;0
+1074;criminal;213;S;Arnold-Franchi;high;2016-02-06 00:00:00;2022-08-31 12:29:48;349237;;pending; Miss. Agda Thorilda Viktoria;24;2;N;0;0
+1172;civil;17;C;Duff Gordon;medium;2022-04-12 00:00:00;2022-09-01 10:51:10;PC 17485;A20;resolved;" Miss. Anna ""Annie""";87;1;Y;1;1
+1612;civil;6;S;Balkic;high;2018-02-18 00:00:00;2022-09-01 11:03:50;349248;;pending; Master. Gosta Leonard;51;3;Y;1;1
+1525;civil;128;S;Pickard;high;2024-12-13 00:00:00;2022-09-12 08:03:59;SOTON/O.Q. 392078;E10;resolved; Rev. Robert James;83;0;N;1;0
+1750;civil;26;C;Levy;low;2021-09-17 00:00:00;2022-09-13 13:02:30;SC/Paris 2163;D;pending; Mr. Edward H;38;1;N;1;0
+1181;civil;78;C;Chronopoulos;high;2018-10-13 00:00:00;2022-09-15 10:46:25;2680;;escalated; Mr. Herbert Fuller;41;2;Y;1;1
+1078;civil;183;S;Chip;high;2018-02-18 00:00:00;2022-09-15 12:02:36;1601;;resolved; Mr. Philip;30;3;Y;1;1
+1561;criminal;135;S;Lines;medium;2022-01-29 00:00:00;2022-09-19 11:45:19;PC 17592;D28;resolved; Mr. Mile;68;3;Y;0;1
+1055;criminal;131;S;Bowerman;medium;2019-04-21 00:00:00;2022-09-29 09:59:20;113505;E33;resolved; Mr. Ole Martin;34;0;Y;0;1
+1157;criminal;183;S;Buss;low;2015-01-09 00:00:00;2022-10-01 09:59:37;27849;;resolved; Mr. Philip;30;3;Y;0;1
+1329;criminal;120;S;Harper;low;2022-04-05 00:00:00;2022-10-07 14:19:41;248727;;resolved; Mr. Olaf Elon;82;3;N;0;0
+1552;civil;266;Q;Scanlan;high;2018-11-02 00:00:00;2022-10-11 14:01:49;36209;;pending; Miss. Margaret Bechstein;68;1;Y;1;1
+1201;criminal;213;Q;Gilnagh;high;2018-06-05 00:00:00;2022-10-18 13:49:18;35851;;resolved; Miss. Agda Thorilda Viktoria;24;2;N;0;0
+1118;criminal;59;S;Backstrom;high;2015-03-10 00:00:00;2022-10-19 13:06:40;3101278;;resolved; Mr. Ambrose Jr;52;2;Y;0;1
+1475;civil;110;C;Ostby;medium;2021-07-16 00:00:00;2022-10-22 08:33:30;113509;B30;pending; Mr. Martin;81;2;Y;1;1
+1165;criminal;124;C;Abelson;low;2022-01-10 00:00:00;2022-10-25 08:56:07;P/PP 3381;;resolved; Mr. Edgardo Samuel;72;2;Y;0;1
+2048;civil;143;S;Celotti;high;2022-01-23 00:00:00;2022-10-28 08:11:28;343275;;escalated; Mr. Lee;52;0;Y;1;1
+1529;civil;114;C;Kent;medium;2018-06-20 00:00:00;2022-11-01 13:44:59;11771;B37;pending; Mr. Jozef;22;2;Y;1;1
+1091;civil;135;S;Hakkarainen;high;2019-02-27 00:00:00;2022-11-02 15:29:40;STON/O2. 3101279;;pending; Mr. Mile;68;3;Y;1;1
+1548;civil;5;S;Leinonen;high;2019-10-09 00:00:00;2022-11-04 14:53:48;STON/O 2. 3101292;;pending; Mr. Timothy J;57;0;Y;1;1
+2041;criminal;113;C;Endres;medium;2024-07-14 00:00:00;2022-11-05 13:07:24;PC 17757;C45;resolved; Mr. Johan;41;0;Y;0;1
+1568;criminal;193;S;Pears;medium;2015-02-05 00:00:00;2022-11-06 16:11:08;113776;C2;resolved; Mr. Frederick Maxfield;46;1;Y;0;1
+1327;civil;62;S;Dantcheff;high;2019-07-13 00:00:00;2022-11-09 16:41:23;349203;;pending; Mr. Sigurd Hansen;62;2;Y;1;1
+1549;civil;217;S;Knight;low;2021-11-09 00:00:00;2022-11-19 10:14:18;239855;;pending; Mr. William Thomas;66;0;Y;1;1
+1867;criminal;69;S;Pinsky;low;2022-09-28 00:00:00;2022-11-21 12:13:58;234604;;resolved; Miss. Brigdet Delia;84;2;Y;0;1
+1769;criminal;147;S;Quick;low;2024-05-09 00:00:00;2022-11-23 08:02:33;26360;;resolved; Mr. Antti Wilhelm;57;0;Y;0;1
+1131;civil;178;S;Butler;low;2018-05-20 00:00:00;2022-11-30 09:27:48;234686;;pending; Mr. Henry;38;2;Y;1;1
+1184;civil;167;S;Nysveen;high;2021-02-27 00:00:00;2022-12-02 09:57:53;345364;;pending; Mr. Karl Siegwart Andreas;27;0;Y;1;1
+1200;civil;270;C;Leeni;high;2020-06-24 00:00:00;2022-12-06 16:38:56;2620;;resolved; Miss. Helmina Josefina;33;0;Y;1;1
+1688;civil;10;S;Ling;high;2017-04-11 00:00:00;2022-12-09 10:38:30;1601;;pending; Mr. Anders Johan;47;2;Y;1;1
+1578;civil;160;S;Panula;high;2021-02-05 00:00:00;2022-12-09 13:48:00;3101295;;pending; Mr. John;24;0;Y;1;1
+1503;civil;225;S;Karlsson;high;2020-05-31 00:00:00;2022-12-20 09:43:55;350060;;pending; Mr. William;83;3;Y;1;1
+1145;civil;45;S;Alexander;high;2017-09-14 00:00:00;2022-12-20 15:12:58;3474;;pending; Mr. Mansouer;20;3;Y;1;1
+1931;civil;118;S;Bracken;low;2023-03-20 00:00:00;2022-12-30 14:56:15;220367;;pending; Miss. Helen Monypeny;28;0;Y;1;1
+1112;criminal;167;Q;Canavan;high;2023-08-06 00:00:00;2023-01-02 10:09:42;364846;;pending; Mr. Karl Siegwart Andreas;27;0;Y;0;1
+1097;criminal;97;Q;Keane;low;2022-10-05 00:00:00;2023-01-03 13:40:48;226593;E101;resolved; Miss. Katriina;41;1;Y;0;1
+1271;civil;178;S;Lam;high;2020-04-20 00:00:00;2023-01-07 15:30:14;1601;;resolved; Mr. Henry;38;2;Y;1;1
+2003;criminal;212;C;Baclini;high;2017-03-24 00:00:00;2023-01-09 08:12:20;2666;;resolved; Dr. William Edward;40;2;Y;0;1
+1630;criminal;33;S;Cherry;medium;2016-03-14 00:00:00;2023-01-09 15:40:02;110152;B77;resolved; Mr. Theodor;28;0;Y;0;1
+1897;civil;223;S;Andersson;high;2020-09-21 00:00:00;2023-01-10 14:36:49;350043;;resolved; Master. Edvin Rojj Felix;31;2;Y;1;1
+1890;civil;15;S;Sunderland;high;2023-12-23 00:00:00;2023-01-12 11:55:58;SOTON/OQ 392089;;resolved; Mr. Joseph J;56;2;Y;1;1
+1732;civil;14;S;Culumovic;high;2015-02-06 00:00:00;2023-01-14 11:11:28;315090;;pending; Mrs. Fatima;46;2;Y;1;1
+1616;civil;88;C;Gheorgheff;high;2021-06-17 00:00:00;2023-01-14 16:22:05;349254;;pending; Mr. Anders Vilhelm;83;0;Y;1;1
+1347;civil;271;C;Goldenberg;medium;2021-08-16 00:00:00;2023-01-15 16:03:13;17453;C92;resolved; Dr. Ernest;53;2;Y;1;1
+1199;civil;208;S;Bjornstrom-Steffansson;medium;2022-08-08 00:00:00;2023-01-16 16:09:50;110564;C52;resolved;" Miss. Katherine ""Kate""";24;2;Y;1;1
+1583;civil;38;S;Moore;high;2015-08-15 00:00:00;2023-01-17 13:28:25;A4. 54510;;pending; Miss. Bridget;61;3;N;1;0
+2015;civil;49;S;Markun;high;2022-11-15 00:00:00;2023-01-24 10:19:38;349257;;pending; Miss. Amelie;86;2;Y;1;1
+1814;civil;276;S;Dodge;medium;2015-02-20 00:00:00;2023-02-07 09:05:28;33638;A34;resolved; Mr. George John Jr;28;1;Y;1;1
+1999;civil;1;Q;Moran;high;2015-06-07 00:00:00;2023-02-09 11:31:47;371110;;escalated; Mr. Owen Harris;47;1;Y;1;1
+1117;civil;192;S;Slemen;low;2017-06-05 00:00:00;2023-02-09 12:03:10;28206;;pending; Mr. Christo;43;1;Y;1;1
+1693;civil;22;S;Sobey;low;2016-03-09 00:00:00;2023-02-11 09:08:56;C.A. 29178;;pending;" Miss. Ellen ""Nellie""";35;2;N;1;0
+2037;criminal;174;C;Goldenberg;medium;2024-08-12 00:00:00;2023-02-14 14:51:22;17453;C92;resolved; Miss. Telma Matilda;36;3;N;0;0
+1565;civil;67;S;Goldsmith;high;2020-09-29 00:00:00;2023-02-16 13:03:56;363291;;resolved; Mr. Achille;65;3;Y;1;1
+1689;civil;66;S;Hansen;high;2024-03-13 00:00:00;2023-02-16 14:36:40;350025;;pending; Miss. Elizabeth;78;1;Y;1;1
+1697;criminal;161;S;Beckwith;medium;2024-12-18 00:00:00;2023-02-19 09:01:52;11751;D35;resolved; Mr. Stjepan;80;0;Y;0;1
+1977;civil;233;C;Toufik;high;2024-04-05 00:00:00;2023-02-21 13:40:13;2641;;pending; Mr. Charles H;22;3;N;1;0
+1533;civil;181;S;Graham;medium;2022-11-27 00:00:00;2023-02-28 11:39:16;PC 17582;C91;pending; Mr. John Henry;27;3;Y;1;1
+1455;criminal;270;S;Allison;medium;2023-11-02 00:00:00;2023-02-28 13:15:19;113781;C22 C26;pending; Miss. Helmina Josefina;33;0;Y;0;1
+2018;civil;211;S;Turpin;low;2016-10-09 00:00:00;2023-03-02 10:23:40;11668;;escalated; Mr. Sleiman;33;2;Y;1;1
+1318;criminal;38;S;Goodwin;high;2018-03-07 00:00:00;2023-03-08 12:38:01;CA 2144;;pending; Miss. Bridget;61;3;N;0;0
+1389;criminal;188;S;Collyer;low;2020-01-31 00:00:00;2023-03-17 11:55:24;C.A. 31921;;resolved; Mr. Walter;53;1;N;0;0
+1097;criminal;108;C;Meyer;medium;2015-05-29 00:00:00;2023-03-17 12:49:58;PC 17604;;resolved; Mr. Percival Wayland;60;1;N;0;0
+1154;civil;8;S;Hocking;low;2019-07-31 00:00:00;2023-03-20 08:11:11;29104;;pending; Miss. Elizabeth;67;2;N;1;0
+1702;civil;89;Q;Rice;high;2023-07-27 00:00:00;2023-03-23 13:55:03;382652;;pending; Mr. Stoytcho;59;0;Y;1;1
+1878;civil;83;C;Widener;medium;2015-01-26 00:00:00;2023-03-27 11:56:24;113503;C82;pending; Mr. William Bertram;40;3;Y;1;1
+1904;criminal;163;C;Burns;medium;2023-06-10 00:00:00;2023-03-28 12:08:21;16966;E40;resolved; Miss. Carla Christine Nielsine;78;0;Y;0;1
+1248;civil;148;S;Radeff;high;2024-03-04 00:00:00;2023-03-31 14:59:25;349223;;pending; Mr. James Clinch;43;0;N;1;0
+2039;criminal;277;Q;Mullens;high;2015-05-20 00:00:00;2023-04-04 14:03:07;35852;;resolved; Miss. Marie Grice;55;3;Y;0;1
+1888;criminal;247;Q;Mockler;high;2015-03-15 00:00:00;2023-04-09 16:59:05;330980;;resolved; Mr. Masabumi;39;0;Y;0;1
+1757;civil;142;S;Green;high;2019-06-17 00:00:00;2023-04-12 14:09:53;21440;;pending; Mr. John D;54;0;Y;1;1
+1924;criminal;196;S;Renouf;low;2020-07-28 00:00:00;2023-04-24 11:02:33;31027;;resolved; Mr. Arne Jonas;49;1;V;0;0
+1934;civil;85;S;Coxon;high;2019-12-25 00:00:00;2023-05-09 08:25:00;364500;;pending; Miss. Matilda;67;2;Y;1;1
+1824;criminal;239;C;Spencer;medium;2018-06-24 00:00:00;2023-05-12 15:26:12;PC 17569;B78;resolved; Mr. Frank;70;3;Y;0;1
+1074;civil;68;S;Plotcharsky;high;2018-11-03 00:00:00;2023-05-15 16:35:02;349227;;pending; Mr. Jan Baptist;26;3;Y;1;1
+1574;civil;163;S;Jansson;high;2017-11-22 00:00:00;2023-05-29 11:01:32;350034;;resolved; Miss. Carla Christine Nielsine;78;0;Y;1;1
+1430;criminal;179;S;Hogeboom;medium;2017-04-16 00:00:00;2023-06-05 16:55:55;13502;D11;resolved; Mr. Ahmed;21;1;Y;0;1
+1592;criminal;153;C;Bazzani;medium;2023-04-06 00:00:00;2023-06-09 12:15:24;11813;D15;resolved; Mr. Lionel;61;3;Y;0;1
+1675;criminal;220;C;Thayer;medium;2016-06-14 00:00:00;2023-06-09 14:57:42;17421;C68;resolved; Miss. Gladys;48;1;Y;0;1
+1290;civil;177;S;Soholt;high;2020-11-08 00:00:00;2023-06-15 16:33:53;348124;F G73;escalated;" Miss. Helen ""Ellen""";48;1;N;1;0
+1204;civil;169;S;Johnson;high;2023-02-03 00:00:00;2023-06-26 13:41:40;347742;;resolved; Mr. Nestor Cyriel;83;2;Y;1;1
+1083;criminal;275;S;Longley;medium;2021-02-25 00:00:00;2023-06-28 13:35:02;13502;D9;resolved; Miss. Hilda Mary;86;3;Y;0;1
+1941;criminal;107;Q;McDermott;high;2017-12-02 00:00:00;2023-06-30 09:55:09;330932;;resolved; Miss. Susan;70;2;N;0;0
+1282;criminal;250;S;Thorneycroft;high;2018-07-06 00:00:00;2023-07-01 11:31:38;376564;;resolved; Mr. Rene Jacques;82;3;Y;0;1
+1968;civil;94;S;Partner;medium;2020-01-10 00:00:00;2023-07-02 14:18:32;113043;C124;pending; Mr. Walter Chamberlain;28;3;Y;1;1
+1904;civil;74;S;Moutal;high;2021-10-31 00:00:00;2023-07-03 14:56:50;374746;;escalated; Miss. Mabel Helen;48;0;Y;1;1
+1772;civil;106;S;van Billiard;high;2022-11-09 00:00:00;2023-07-04 15:16:51;A/5. 851;;pending; Mr. Nicholas;43;3;Y;1;1
+1193;civil;25;S;Sage;high;2018-05-16 00:00:00;2023-07-06 14:24:35;CA. 2343;;pending; Miss. Mary Agatha;65;3;Y;1;1
+1457;civil;71;S;Alhomaki;high;2021-03-09 00:00:00;2023-07-11 11:41:17;SOTON/O2 3101287;;pending; Miss. Bertha;90;0;Y;1;1
+1200;civil;54;Q;O'Connell;high;2023-08-31 00:00:00;2023-07-17 14:43:44;334912;;pending; Mr. Ernest James;41;3;N;1;0
+1453;civil;155;S;Olsen;high;2022-02-20 00:00:00;2023-07-18 10:38:47;Fa 265302;;pending; Mr. Rene;28;3;Y;1;1
+1640;civil;257;C;Nasser;low;2019-07-30 00:00:00;2023-07-19 10:18:03;237736;;escalated;" Miss. Anna Katherine ""Annie Kate""";50;1;Y;1;1
+1366;civil;28;Q;Kiernan;high;2020-05-02 00:00:00;2023-07-21 11:24:17;367229;;pending; Mr. Alexander Oskar;73;0;Y;1;1
+1660;civil;50;C;Padro y Manent;low;2021-12-03 00:00:00;2023-07-25 09:16:16;SC/PARIS 2146;;resolved; Mr. Henry Birkhardt;73;0;N;1;0
+1600;civil;180;S;Pears;medium;2015-07-11 00:00:00;2023-07-26 09:46:22;113776;C2;pending; Miss. Clear Annie;55;0;Y;1;1
+1439;civil;253;S;Mudd;low;2022-01-10 00:00:00;2023-07-28 11:54:06;S.O./P.P. 3;;pending; Mr. Ervin G;54;0;Y;1;1
+2029;criminal;136;S;Allison;medium;2022-10-12 00:00:00;2023-07-28 12:05:37;113781;C22 C26;pending; Master. Thomas Henry;58;2;Y;0;1
+1265;civil;257;C;Williams;medium;2015-06-25 00:00:00;2023-08-01 14:59:34;PC 17597;;pending;" Miss. Anna Katherine ""Annie Kate""";50;1;Y;1;1
+1799;criminal;88;S;Futrelle;medium;2018-05-28 00:00:00;2023-08-03 15:33:33;113803;C123;resolved; Mr. Anders Vilhelm;83;0;Y;0;1
+1656;criminal;108;C;Isham;medium;2021-04-09 00:00:00;2023-08-11 09:37:26;PC 17595;C49;pending; Mr. Percival Wayland;60;1;N;0;0
+1900;criminal;131;S;Kenyon;medium;2019-11-23 00:00:00;2023-08-11 12:18:43;17464;D21;resolved; Mr. Ole Martin;34;0;Y;0;1
+1844;civil;177;S;Stoytcheff;high;2021-12-01 00:00:00;2023-08-12 08:04:51;349205;;pending;" Miss. Helen ""Ellen""";48;1;N;1;0
+1783;criminal;10;C;Baclini;high;2016-12-26 00:00:00;2023-08-13 08:35:23;2666;;resolved; Mr. Anders Johan;47;2;Y;0;1
+1608;civil;96;S;de Pelsmaeker;high;2017-10-14 00:00:00;2023-08-13 14:06:52;345778;;pending; Mr. David John;75;0;Y;1;1
+1892;civil;34;S;Andreasson;high;2019-08-26 00:00:00;2023-08-16 15:25:55;347466;;pending; Miss. Simonne Marie Anne Andree;59;1;Y;1;1
+1434;civil;229;C;Foreman;medium;2020-05-05 00:00:00;2023-08-17 15:35:08;113051;C111;pending; Mr. Ernst Ulrik;83;1;Y;1;1
+1922;criminal;183;S;Sage;high;2022-11-10 00:00:00;2023-08-29 09:27:39;CA. 2343;;pending; Mr. Philip;30;3;Y;0;1
+1075;civil;119;Q;Charters;high;2018-04-16 00:00:00;2023-08-30 16:30:26;A/5. 13032;;pending; Mr. Jacques Heath;41;3;Y;1;1
+1256;civil;39;S;Bradley;medium;2024-10-10 00:00:00;2023-09-04 11:22:42;111427;;resolved; Mr. Youssef;89;0;N;1;0
+1128;criminal;50;S;Turja;high;2016-10-20 00:00:00;2023-09-11 15:03:01;4138;;resolved; Mr. Henry Birkhardt;73;0;N;0;0
+1144;civil;51;S;Tikkanen;high;2024-12-09 00:00:00;2023-09-14 09:38:36;STON/O 2. 3101293;;pending; Master. Harald;32;2;Y;1;1
+1483;civil;98;C;Bishop;medium;2017-03-09 00:00:00;2023-09-14 14:39:07;11967;B49;escalated; Miss. Malake;42;1;Y;1;1
+1360;criminal;11;C;Baclini;high;2022-05-13 00:00:00;2023-09-18 10:03:04;2666;;resolved; Miss. Hulda Amanda Adolfina;72;3;Y;0;1
+1591;criminal;256;C;Sagesser;medium;2017-06-25 00:00:00;2023-09-24 10:52:54;PC 17477;B35;resolved; Mr. Adolphe;20;2;Y;0;1
+1993;civil;158;S;Petroff;high;2015-08-02 00:00:00;2023-09-27 10:04:22;349212;;pending; Miss. Luise Gretchen;68;0;Y;1;1
+1521;civil;67;S;White;medium;2023-03-31 00:00:00;2023-09-27 16:41:48;35281;D26;pending; Mr. Achille;65;3;Y;1;1
+1396;civil;260;S;Hickman;low;2019-06-22 00:00:00;2023-10-01 14:40:42;S.O.C. 14879;;pending; Miss. Nora A;79;2;Y;1;1
+1224;criminal;224;S;Lahtinen;low;2024-10-12 00:00:00;2023-10-12 08:40:34;250651;;pending; Mr. Emil;75;2;Y;0;1
+1251;criminal;71;S;Lefebre;high;2015-08-14 00:00:00;2023-10-14 10:41:48;4133;;pending; Miss. Bertha;90;0;Y;0;1
+1809;criminal;226;S;Shelley;low;2022-05-12 00:00:00;2023-10-22 09:36:52;230433;;resolved; Miss. Delia;64;1;Y;0;1
+1863;criminal;208;S;West;low;2019-06-17 00:00:00;2023-10-23 12:47:40;C.A. 34651;;resolved;" Miss. Katherine ""Kate""";24;2;Y;0;1
+1625;civil;280;S;Hood;low;2016-05-24 00:00:00;2023-10-25 08:08:53;S.O.C. 14879;;pending; Miss. Agnes;71;2;Y;1;1
+1120;civil;181;C;Paulner;high;2019-10-15 00:00:00;2023-10-25 16:21:22;3411;;pending; Mr. John Henry;27;3;Y;1;1
+1515;civil;96;S;Vander Cruyssen;high;2018-05-14 00:00:00;2023-10-26 10:12:17;345765;;pending; Mr. David John;75;0;Y;1;1
+1233;civil;110;S;Holverson;medium;2024-03-29 00:00:00;2023-10-26 15:32:33;113789;;escalated; Mr. Martin;81;2;Y;1;1
+1541;civil;148;Q;Gallagher;high;2024-12-06 00:00:00;2023-10-28 10:32:27;36864;;pending; Mr. James Clinch;43;0;N;1;0
+1668;criminal;3;C;Eustis;medium;2019-06-03 00:00:00;2023-11-02 10:55:38;36947;D20;resolved; Mr. William Henry;90;2;Y;0;1
+1690;civil;27;S;Hansen;high;2022-06-29 00:00:00;2023-11-06 14:32:38;350029;;pending; Mr. Edgar Joseph;49;3;Y;1;1
+1258;criminal;260;S;Mellinger;low;2017-09-02 00:00:00;2023-11-18 14:45:01;250644;;resolved; Miss. Nora A;79;2;Y;0;1
+1138;civil;248;S;Pavlovic;high;2024-02-05 00:00:00;2023-11-28 08:43:26;349242;;pending; Miss. Kate;55;0;Y;1;1
+1745;civil;45;S;Abbing;high;2020-08-21 00:00:00;2023-12-04 12:55:35;C.A. 5547;;pending; Mr. Mansouer;20;3;Y;1;1
+1352;civil;235;S;Dennis;high;2024-04-29 00:00:00;2023-12-16 12:55:18;A/5 21172;;pending; Miss. Kornelia Theodosia;33;0;Y;1;1
+1250;civil;48;Q;McCormack;high;2024-10-02 00:00:00;2023-12-23 11:30:46;367228;;resolved; Mr. Orsen;92;0;Y;1;1
+1376;civil;140;S;Goodwin;high;2017-05-23 00:00:00;2023-12-25 10:12:26;CA 2144;;pending; Master. Eino Viljami;60;3;N;1;0
+1074;civil;110;S;Gaskell;low;2021-11-29 00:00:00;2023-12-26 16:26:07;239865;;escalated; Mr. Martin;81;2;Y;1;1
+1430;civil;233;C;Thayer;medium;2023-10-18 00:00:00;2024-01-03 13:55:55;17421;C68;pending; Mr. Charles H;22;3;N;1;0
+1260;civil;73;S;Sutton;medium;2021-03-01 00:00:00;2024-01-06 14:22:51;36963;D50;pending; Mr. Selman Francis;66;1;Y;1;1
+1917;civil;246;S;Goldsmith;high;2024-01-15 00:00:00;2024-01-06 16:25:58;363291;;pending; Mr. Penko;52;2;Y;1;1
+1198;civil;45;C;Hoyt;medium;2019-05-21 00:00:00;2024-01-08 10:49:26;PC 17600;;pending; Mr. Mansouer;20;3;Y;1;1
+1420;criminal;147;S;Davis;low;2020-10-16 00:00:00;2024-01-09 08:11:28;237668;;resolved; Mr. Antti Wilhelm;57;0;Y;0;1
+1497;civil;6;S;Beavan;high;2021-04-07 00:00:00;2024-01-10 13:34:45;323951;;pending; Master. Gosta Leonard;51;3;Y;1;1
+1855;civil;190;S;Skoog;high;2023-06-16 00:00:00;2024-01-10 16:39:39;347088;;pending; Mr. James H;28;1;Y;1;1
+1587;criminal;40;C;Laroche;low;2024-03-12 00:00:00;2024-01-14 14:19:58;SC/Paris 2123;;resolved; Master. Juha Niilo;76;1;Y;0;1
+1604;criminal;39;Q;Rice;high;2023-11-14 00:00:00;2024-01-16 10:47:00;382652;;pending; Mr. Youssef;89;0;N;0;0
+1128;civil;171;C;Barah;high;2024-08-24 00:00:00;2024-01-16 11:07:35;2663;;escalated; Mr. Jakob Alfred;66;1;Y;1;1
+1159;criminal;183;S;Laitinen;high;2021-10-10 00:00:00;2024-01-16 12:17:43;4135;;pending; Mr. Philip;30;3;Y;0;1
+1160;civil;82;S;Hickman;low;2017-12-18 00:00:00;2024-01-16 15:05:54;S.O.C. 14879;;pending; Mr. George B;30;3;Y;1;1
+1529;criminal;186;S;Kink-Heilmann;high;2017-03-24 00:00:00;2024-01-18 13:45:16;315153;;resolved; Mr. Sidney Samuel;87;0;Y;0;1
+1242;civil;32;S;Eklund;high;2023-11-16 00:00:00;2024-01-25 15:14:07;347074;;pending; Miss. Jamila;28;3;Y;1;1
+1550;criminal;266;C;Fleming;medium;2017-07-31 00:00:00;2024-01-30 10:41:05;17421;;resolved; Miss. Margaret Bechstein;68;1;Y;0;1
+1360;civil;77;S;Vander Planke;high;2021-04-13 00:00:00;2024-02-06 10:53:11;345764;;pending; Mr. Paul Edvin;38;2;Y;1;1
+1418;civil;43;S;Kimball;medium;2020-10-03 00:00:00;2024-02-11 14:26:53;11753;D19;resolved; Mr. Hugh;33;1;Y;1;1
+1469;criminal;92;S;Graham;medium;2023-11-03 00:00:00;2024-02-14 09:17:51;PC 17582;C125;resolved; Mr. Tido;37;0;Y;0;1
+1802;civil;180;S;Lefebre;high;2018-09-03 00:00:00;2024-02-18 11:28:11;4133;;pending; Miss. Clear Annie;55;0;Y;1;1
+1320;civil;273;S;Torber;high;2024-10-31 00:00:00;2024-02-27 14:53:40;364511;;pending; Mr. Samuel;24;1;N;1;0
+1326;civil;243;C;Yousseff;high;2020-02-17 00:00:00;2024-02-29 09:33:59;2627;;pending; Mr. Richard William;44;1;Y;1;1
+1267;civil;71;S;Kantor;low;2022-06-05 00:00:00;2024-03-01 11:24:26;244367;;escalated; Miss. Bertha;90;0;Y;1;1
+1353;civil;58;S;Johanson;high;2021-12-14 00:00:00;2024-03-02 13:18:03;3101264;;pending; Miss. Lillian Amy;29;3;Y;1;1
+1138;civil;226;S;Larsson;high;2016-11-28 00:00:00;2024-03-05 15:16:25;347067;;pending; Miss. Delia;64;1;Y;1;1
+1320;civil;126;S;Olsvigen;high;2017-03-14 00:00:00;2024-03-06 10:14:36;6563;;pending;" Miss. Robina Maggie ""Ruby""";58;2;Y;1;1
+1681;civil;245;S;Saalfeld;medium;2019-01-13 00:00:00;2024-03-25 12:16:42;19988;C106;resolved; Mr. Theodore;82;1;Y;1;1
+1439;criminal;53;Q;Kelly;high;2015-10-30 00:00:00;2024-03-27 13:35:11;9234;;resolved; Master. Gerios;19;0;Y;0;1
+1755;civil;31;S;Lievens;high;2024-04-08 00:00:00;2024-03-29 08:21:50;345781;;pending; Miss. Augusta Maria;80;2;Y;1;1
+1890;civil;39;S;Svensson;high;2017-05-17 00:00:00;2024-04-01 09:23:37;350035;;pending; Mr. Youssef;89;0;N;1;0
+1753;criminal;94;C;Warren;medium;2015-07-07 00:00:00;2024-04-01 16:43:32;110813;D37;resolved; Mr. Walter Chamberlain;28;3;Y;0;1
+1922;criminal;222;S;Heikkinen;high;2018-04-22 00:00:00;2024-04-06 11:16:05;STON/O2. 3101282;;resolved; Mr. Thomas;77;1;Y;0;1
+1440;criminal;8;S;Yrois;low;2017-05-31 00:00:00;2024-04-08 12:50:41;248747;;escalated; Miss. Elizabeth;67;2;N;0;0
+1787;civil;188;C;Ibrahim Shawah;high;2020-04-30 00:00:00;2024-04-12 13:42:23;2685;;pending; Mr. Walter;53;1;N;1;0
+1086;civil;122;S;Bing;high;2020-05-26 00:00:00;2024-04-12 14:09:45;1601;;escalated; Miss. Anna Sofia;92;3;Y;1;1
+1329;civil;276;S;Carter;low;2017-12-02 00:00:00;2024-04-13 09:32:41;244252;;pending; Mr. George John Jr;28;1;Y;1;1
+1510;civil;202;S;West;low;2018-08-25 00:00:00;2024-04-15 16:16:28;C.A. 34651;;pending; Miss. Alice Phoebe;33;2;N;1;0
+1760;civil;180;Q;Kilgannon;high;2019-09-30 00:00:00;2024-04-19 11:21:16;36865;;pending; Miss. Clear Annie;55;0;Y;1;1
+1665;criminal;111;S;Hirvonen;high;2016-08-17 00:00:00;2024-04-22 15:00:09;3101298;;resolved; Mr. Fridtjof Arne;67;3;Y;0;1
+1317;civil;206;S;Parkes;low;2016-11-14 00:00:00;2024-04-30 10:42:58;239853;;pending; Mr. George Henry;55;1;Y;1;1
+1525;civil;71;S;Mineff;high;2016-06-30 00:00:00;2024-04-30 10:49:44;349233;;pending; Miss. Bertha;90;0;Y;1;1
+1983;criminal;85;C;Barbara;high;2019-01-22 00:00:00;2024-05-06 09:38:27;2691;;pending; Miss. Matilda;67;2;Y;0;1
+1469;civil;33;S;Greenberg;low;2017-07-08 00:00:00;2024-05-06 14:25:35;250647;;pending; Mr. Theodor;28;0;Y;1;1
+1457;civil;70;S;Anderson;medium;2023-05-10 00:00:00;2024-05-25 09:10:05;19952;E12;resolved; Mr. Francisco M;32;3;Y;1;1
+1271;criminal;229;S;Sandstrom;high;2018-07-04 00:00:00;2024-06-08 11:21:33;PP 9549;G6;resolved; Mr. Ernst Ulrik;83;1;Y;0;1
+1836;criminal;218;S;Hakkarainen;high;2017-07-20 00:00:00;2024-06-10 08:01:24;STON/O2. 3101279;;resolved; Mr. William Arthur;52;0;Y;0;1
+1221;civil;18;S;Wiklund;high;2024-11-13 00:00:00;2024-06-10 14:18:40;3101267;;pending; Mr. William Thompson;76;2;N;1;0
+2020;civil;177;S;Gustafsson;high;2019-01-25 00:00:00;2024-06-12 09:49:41;3101277;;pending;" Miss. Helen ""Ellen""";48;1;N;1;0
+1821;criminal;228;C;Karun;high;2017-08-26 00:00:00;2024-06-14 08:17:48;349256;;resolved; Mr. Ernesti Arvid;52;0;Y;0;1
+1201;criminal;62;S;Doling;low;2021-06-02 00:00:00;2024-06-20 13:29:25;231919;;resolved; Mr. Sigurd Hansen;62;2;Y;0;1
+2049;civil;260;S;Pain;low;2021-10-26 00:00:00;2024-06-21 14:39:16;244278;;pending; Miss. Nora A;79;2;Y;1;1
+1637;criminal;143;C;Ryerson;medium;2017-07-17 00:00:00;2024-06-23 12:40:45;PC 17608;B57 B59 B63 B66;resolved; Mr. Lee;52;0;Y;0;1
+1186;civil;112;C;Behr;medium;2018-02-01 00:00:00;2024-06-29 09:49:24;111369;C148;resolved; Miss. Anna;43;2;Y;1;1
+1213;criminal;247;S;Jussila;high;2015-12-29 00:00:00;2024-07-07 11:37:49;4137;;pending; Mr. Masabumi;39;0;Y;0;1
+1385;civil;224;S;Fortune;medium;2021-05-16 00:00:00;2024-07-10 10:30:00;19950;C23 C25 C27;pending; Mr. Emil;75;2;Y;1;1
+1602;civil;227;C;Brewe;medium;2017-12-01 00:00:00;2024-07-13 15:26:12;112379;;pending; Mr. David;48;0;Y;1;1
+1756;civil;184;S;Banfield;low;2022-12-07 00:00:00;2024-07-17 11:53:57;C.A./SOTON 34068;;pending; Miss. Madeleine;67;3;Y;1;1
+1616;criminal;203;Q;O'Sullivan;high;2019-08-22 00:00:00;2024-07-21 11:50:04;330909;;pending; Mr. Stephen;20;2;Y;0;1
+1586;civil;280;S;Allison;medium;2021-03-28 00:00:00;2024-07-25 15:36:00;113781;C22 C26;resolved; Miss. Agnes;71;2;Y;1;1
+1488;civil;153;C;Harder;medium;2022-07-07 00:00:00;2024-07-29 16:16:45;11765;E50;resolved; Mr. Lionel;61;3;Y;1;1
+1222;civil;103;S;Cavendish;medium;2022-06-28 00:00:00;2024-08-02 08:13:12;19877;C46;pending; Miss. Ellis Anna Maria;65;1;Y;1;1
+1399;criminal;196;S;Palsson;high;2015-09-11 00:00:00;2024-08-07 11:56:07;349909;;pending; Mr. Arne Jonas;49;1;V;0;0
+1447;criminal;3;S;Newsom;medium;2023-11-01 00:00:00;2024-08-09 13:20:12;11752;D47;resolved; Mr. William Henry;90;2;Y;0;1
+1975;criminal;179;S;Bissette;medium;2019-10-19 00:00:00;2024-08-10 09:01:00;PC 17760;C99;resolved; Mr. Ahmed;21;1;Y;0;1
+1630;civil;62;C;del Carlo;low;2017-02-12 00:00:00;2024-08-13 12:14:33;SC/PARIS 2167;;pending; Mr. Sigurd Hansen;62;2;Y;1;1
+1779;civil;43;S;McGough;medium;2023-08-13 00:00:00;2024-08-17 11:43:09;PC 17473;E25;resolved; Mr. Hugh;33;1;Y;1;1
+1224;civil;141;S;Hagland;high;2021-02-01 00:00:00;2024-08-19 12:11:14;65303;;pending;" Master. Frank John William ""Frankie""";31;1;N;1;0
+1790;criminal;150;S;Pettersson;high;2018-01-28 00:00:00;2024-08-20 13:11:34;347087;;pending; Master. Henry Forbes;77;0;Y;0;1
+1600;criminal;181;S;Silven;low;2023-08-16 00:00:00;2024-08-27 08:31:55;250652;;resolved; Mr. John Henry;27;3;Y;0;1
+1852;civil;53;S;Risien;high;2019-01-31 00:00:00;2024-08-30 15:29:40;364498;;pending; Master. Gerios;19;0;Y;1;1
+1715;criminal;62;S;Andersson;high;2020-11-07 00:00:00;2024-09-01 08:30:55;347082;;pending; Mr. Sigurd Hansen;62;2;Y;0;1
+1307;civil;217;S;Allen;high;2022-08-28 00:00:00;2024-09-02 14:37:32;373450;;pending; Mr. William Thomas;66;0;Y;1;1
+1297;civil;151;S;Pengelly;low;2019-01-19 00:00:00;2024-09-05 16:21:22;28665;;pending; Miss. Ann Elizabeth;34;0;Y;1;1
+1858;civil;113;S;Cribb;high;2018-01-24 00:00:00;2024-09-06 10:39:04;371362;;escalated; Mr. Johan;41;0;Y;1;1
+1526;civil;38;S;Morley;low;2021-04-21 00:00:00;2024-09-16 13:08:07;250655;;pending; Miss. Bridget;61;3;N;1;0
+1956;criminal;151;S;Dahlberg;high;2020-09-29 00:00:00;2024-09-17 10:55:03;7552;;resolved; Miss. Ann Elizabeth;34;0;Y;0;1
+1793;civil;5;S;Theobald;high;2017-05-31 00:00:00;2024-09-24 14:17:14;363294;;pending; Mr. Timothy J;57;0;Y;1;1
+1549;criminal;103;S;Goldsmith;high;2019-08-27 00:00:00;2024-10-05 11:24:52;363291;;resolved; Miss. Ellis Anna Maria;65;1;Y;0;1
+1873;civil;31;S;Karaic;high;2016-04-23 00:00:00;2024-10-05 12:54:00;349246;;pending; Miss. Augusta Maria;80;2;Y;1;1
+1257;civil;67;S;Stead;medium;2024-03-25 00:00:00;2024-10-09 10:52:45;113514;C87;escalated; Mr. Achille;65;3;Y;1;1
+1826;civil;226;C;Jalsevac;high;2020-03-07 00:00:00;2024-10-11 16:22:31;349240;;resolved; Miss. Delia;64;1;Y;1;1
+1507;civil;160;S;Panula;high;2024-08-04 00:00:00;2024-10-14 11:09:10;3101295;;pending; Mr. John;24;0;Y;1;1
+1380;civil;254;S;Beane;low;2018-03-27 00:00:00;2024-10-21 14:58:25;2908;;resolved; Mr. Mansour;67;1;Y;1;1
+1949;criminal;93;S;Garside;low;2022-07-23 00:00:00;2024-10-22 11:44:44;243880;;resolved; Miss. Bertha;77;1;Y;0;1
+1948;criminal;21;S;Panula;high;2016-10-07 00:00:00;2024-10-22 16:49:52;3101295;;pending; Mr. Charles Alexander;78;0;N;0;0
+1311;criminal;68;S;Meek;high;2018-06-29 00:00:00;2024-10-25 13:55:21;343095;;pending; Mr. Jan Baptist;26;3;Y;0;1
+1923;civil;114;S;Sloper;medium;2021-11-18 00:00:00;2024-10-25 15:05:46;113788;A6;resolved; Mr. Jozef;22;2;Y;1;1
+1699;criminal;102;S;Frauenthal;medium;2020-09-12 00:00:00;2024-10-27 13:29:51;PC 17611;;resolved; Mr. Quigg Edmond;49;0;Y;0;1
+1891;civil;268;S;Hampe;high;2017-09-14 00:00:00;2024-10-27 13:54:03;345769;;pending; Mr. Ignjac;62;2;Y;1;1
+1362;criminal;89;C;Jerwan;low;2020-04-12 00:00:00;2024-11-04 11:58:51;SC/AH Basle 541;D;resolved; Mr. Stoytcho;59;0;Y;0;1
+1241;criminal;226;C;Compton;medium;2017-11-30 00:00:00;2024-11-08 13:23:23;PC 17756;E49;resolved; Miss. Delia;64;1;Y;0;1
+1573;civil;261;S;Lester;high;2022-12-09 00:00:00;2024-11-11 12:31:49;A/4 48871;;pending;" Mr. Howard Hugh ""Harry""";62;1;Y;1;1
+1788;civil;214;Q;McMahon;high;2018-08-26 00:00:00;2024-11-12 14:45:45;370372;;pending; Mr. Richard Leonard;54;3;Y;1;1
+1460;criminal;130;S;Parrish;low;2021-03-08 00:00:00;2024-11-17 16:59:23;230433;;resolved; Mr. Austin Blyler;84;1;Y;0;1
+1725;civil;277;S;Jardin;high;2015-05-15 00:00:00;2024-11-20 10:13:00;SOTON/O.Q. 3101305;;pending; Miss. Marie Grice;55;3;Y;1;1
+1210;criminal;107;S;Vander Planke;high;2017-11-05 00:00:00;2024-11-20 13:26:24;345764;;escalated; Miss. Susan;70;2;N;0;0
+1087;civil;162;C;Robbins;medium;2021-06-13 00:00:00;2024-11-24 11:46:45;PC 17757;;pending; Mr. William;29;2;N;1;0
+1287;civil;277;S;Keefe;high;2017-10-20 00:00:00;2024-11-26 16:17:46;323592;;pending; Miss. Marie Grice;55;3;Y;1;1
+1871;criminal;166;S;Skoog;high;2019-12-11 00:00:00;2024-12-01 10:37:29;347088;;pending; Mr. Robert;56;2;Y;0;1
+2049;criminal;22;S;Funk;low;2018-08-10 00:00:00;2024-12-01 15:00:26;237671;;pending;" Miss. Ellen ""Nellie""";35;2;N;0;0
+2032;criminal;251;S;de Messemaeker;high;2024-07-03 00:00:00;2024-12-05 12:17:43;345572;;resolved; Miss. Aloisia;81;0;Y;0;1
+1554;criminal;140;C;Potter;medium;2023-11-12 00:00:00;2024-12-10 08:12:03;11767;C50;resolved; Master. Eino Viljami;60;3;N;0;0
+1716;civil;235;C;Baxter;medium;2016-05-24 00:00:00;2024-12-11 10:15:36;PC 17558;B58 B60;pending; Miss. Kornelia Theodosia;33;0;Y;1;1
+1553;criminal;201;Q;Glynn;high;2024-03-29 00:00:00;2024-12-12 11:28:28;335677;;resolved; Mr. Robert William Norman;69;3;Y;0;1
+1469;civil;78;C;Badt;high;2024-06-29 00:00:00;2024-12-18 10:05:48;2623;;pending; Mr. Herbert Fuller;41;2;Y;1;1
+1219;civil;45;S;Long;medium;2017-11-21 00:00:00;2024-12-18 12:13:15;113501;D6;pending; Mr. Mansouer;20;3;Y;1;1
+1751;civil;116;S;Taussig;medium;2020-05-26 00:00:00;2024-12-19 12:41:37;110413;E67;pending; Mr. Samuel James Hayden;35;0;Y;1;1
+1413;civil;75;C;Nakid;high;2024-09-03 00:00:00;2024-12-30 11:35:57;2653;;resolved; Mr. Francesco;59;1;N;1;0
+2028;civil;199;C;Razi;high;2022-04-02 00:00:00;2024-12-30 14:21:59;2629;;pending; Mr. Ernst Adolf;86;0;Y;1;1
