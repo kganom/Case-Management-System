@@ -58,7 +58,7 @@ def basic():
 os.environ["OPENAI_API_KEY"] = "sk-abcdef1234567890abcdef1234567890abcdef12"  
 
 # create an AI-chatbot agent that will answer the key business questions by interacting with the CMS model data
-chain = create_csv_agent( OpenAI(), path="./data/model_data.csv", verbose=True, allow_dangerous_code=True)
+chain = create_csv_agent( OpenAI(temperature=0), path="./data/model_data.csv", verbose=True, allow_dangerous_code=True) # temperature=0 refers to not chnaging of facts when the agent is feeding back
 
 # render the template
 @app.route("/")
