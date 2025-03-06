@@ -5,7 +5,7 @@ This repository is a Decision Tree Classifier Machine Learning Model and AI-chat
 ## Using this Repo
 
 1. Create folder in your local directory 
-2. Open VS code and then 'cd C:\..folder'
+2. Open VS code and then 'cd local-folder'
 3. Clone this repo using ```git clone https://github.com/kganom/Case-Management-System.git``` command.
 4. pip install virtualenv
 5. python -m venv myenv
