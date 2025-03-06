@@ -64,7 +64,7 @@ def basic():
 # API_KEY = "sk-ijklmnopqrstuvwxijklmnopqrstuvwxijklmnop"
 
 # Load the documents
-# loader = UnstructuredExcelLoader("./data/model_data.xlsx", mode="elements")
+# loader = UnstructuredExcelLoader("./data/scored_cases.xlsx", mode="elements")
 # documents = loader.load()
 
 # Split the documents into chunks

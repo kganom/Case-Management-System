@@ -1,5 +1,5 @@
 import os
-path="C:/Users/KganoM/Desktop/Git_Nolundi/Case-Management-System/API/MLDeployment"    # set your local directory
+path="C:/Users/KganoM/Desktop/Case-Management-System/API/MLDeployment"    # set your local directory
 os.chdir(path)
 
 import warnings
@@ -13,11 +13,13 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from sklearn import tree
 from matplotlib import pyplot as plt
-from joblib import dump
+from joblib import dump, load
 
 # import data
 cases_table = pd.read_excel("Cases_Table.xlsx")
 clients_table = pd.read_excel("Clients_Table.xlsx")
+
+new_cases_table = pd.read_excel("New_Cases_Table.xlsx")
 
 # 1. Data Preprocessing
 
@@ -45,8 +47,6 @@ df['case_type_dummy'] = np.where(df['case_type']=='civil', 1, 0)       # create 
 df['previous_cases_dummy'] = np.where(df['previous_cases']=='Y', 1, 0)
 
 df.head()
-
-df.to_excel('./data/model_data.xlsx', sheet_name='Sheet1', index=False)  # export detail model data
 
 # normalize/scale features 
 # -- this technique is not required for decision tree models. It is commonly used when training a neural network for better performance
@@ -100,7 +100,6 @@ print('Test:', f1_test)
 
 dump(model, './model.joblib')  # save the model for deployment as an API
 
-
 # 4. Feature Importance Analysis
 
 # -- Decision trees, such as Classification and Regression Trees (CART), 
@@ -126,6 +125,25 @@ _ = tree.plot_tree(model,
                    filled=True,
                    rounded=True,
                    fontsize=14)
+
+# --
+
+# Score new cases and export excel file for AI-chatbot interaction
+# Note: all pre-processing tasks done in modelling data are also done in scoring data
+new_cases_table['case_type_dummy'] = np.where(new_cases_table['case_type']=='civil', 1, 0)
+new_cases_table['previous_cases_dummy'] = np.where(new_cases_table['previous_cases']=='Y', 1, 0)
+
+model = load('./model.joblib')
+
+new_cases_table['preds'] = model.predict(new_cases_table.loc[:, ['case_type_dummy','age','risk_level','previous_cases_dummy']])
+
+new_cases_table.head()
+
+df.to_excel('./data/model_data.xlsx', sheet_name='Sheet1', index=False)
+df.to_csv('./data/model_data.csv', index=False)
+
+new_cases_table.to_excel('./data/scored_data_example.xlsx', sheet_name='Sheet1', index=False)
+new_cases_table.to_csv('./data/scored_data_example.csv', index=False)
 
 # 5. Deploy the model as an API using Flask or FastAPI. 
 
