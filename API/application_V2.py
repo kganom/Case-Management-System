@@ -149,7 +149,7 @@ new_cases_table.to_csv('./data/scored_data_example.csv', index=False)
 
 # -- open vs code
 # -- cd C:/Users/KganoM/Desktop/Case-Management-System/API
-# -- organize app.py file with python method and index.html file for ML model deployment as an API
+# -- organize app.py file with ML method and index.html file for ML model deployment as an API
 # -- pip install virtualenv
 # -- python -m venv myenv
 # -- Set-ExecutionPolicy Unrestricted -Scope Process  (optional)
@@ -170,7 +170,7 @@ new_cases_table.to_csv('./data/scored_data_example.csv', index=False)
 # -- include langchain method inside app.py and upgrade index.html with feature of chatbot
 # -- Set-ExecutionPolicy Unrestricted -Scope Process  (optional)
 # -- myenv\Scripts\activate
-# -- pip install langchain, faiss-cpu, huggingface-hub, langchain_community, unstructured, openpyxl, openai, tiktoken
+# -- pip install langchain, langchain_community, unstructured, openpyxl, openai, tiktoken
 # -- cd MLDeployment
 # -- Run the project using 'python app.py' and navigate to 127.0.0.1:5000 in your browser.
 
