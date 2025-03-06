@@ -1,18 +1,11 @@
+import os
 from flask import Flask, render_template, request, flash
 from joblib import load
 import numpy as np
 import pandas as pd
 
-from langchain_community.llms import Ollama
-from flask import Flask, render_template, request
-from langchain_community.vectorstores import FAISS
-from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationalRetrievalChain
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader, UnstructuredExcelLoader
-from langchain.embeddings import OpenAIEmbeddings
-from dotenv import load_dotenv
+from langchain_experimental.agents.agent_toolkits.csv.base import create_csv_agent
+from langchain.llms import OpenAI
 import openai
 
 # create a Flask app
@@ -61,51 +54,28 @@ def basic():
 
 # -- Part B: Develop an AI Agent for Case Insights --
 
-# API_KEY = "sk-ijklmnopqrstuvwxijklmnopqrstuvwxijklmnop"
+# insert your generated OpenAI API Key
+os.environ["OPENAI_API_KEY"] = "sk-abcdef1234567890abcdef1234567890abcdef12"  
 
-# Load the documents
-# loader = UnstructuredExcelLoader("./data/scored_cases.xlsx", mode="elements")
-# documents = loader.load()
-
-# Split the documents into chunks
-# text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=50)
-# text_chunks = text_splitter.split_documents(documents)
-
-# Creating the Embeddings and Vector Store
-# embeddings = OpenAIEmbeddings(openai_api_key=API_KEY)
-# vector_store = FAISS.from_documents(text_chunks, embeddings)
-
-# Load the model
-# llm = Ollama(model="llama3")
-
-# load the memory
-# memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
-
-# create the chain
-# chain = ConversationalRetrievalChain.from_llm(
-#     llm=llm,
-#     chain_type="stuff",
-#     retriever=vector_store.as_retriever(search_kwargs={"k": 2}),
-#     memory=memory,
-# )
+# create an AI-chatbot agent that will answer the key business questions by interacting with the CMS model data
+chain = create_csv_agent( OpenAI(), path="./data/model_data.csv", verbose=True, allow_dangerous_code=True)
 
 # render the template
-# @app.route("/")
-# def index():
-#     return render_template("index.html")
+@app.route("/")
+def index():
+    return render_template("index.html")
 
-# Posting the user query
-# @app.route("/chat", methods=["POST"])
-# def chat():
-#     user_input = request.form["user_input"]
-#     result = chain({"question": user_input, "chat_history": []})
-#     return result["answer"]
-
-
+# posting the user query
+@app.route("/chat", methods=["POST"])
+def chat():
+    user_input = request.form["user_input"]
+    result = chain({"question": user_input, "chat_history": []})
+    return result["answer"]
 
 # --
-
 
 if __name__ == '__main__':
     app.secret_key = 'Your secret key'
     app.run(debug=True)
+
+# run command 'python app.py and access 'http://127.0.0.1:5000/'
