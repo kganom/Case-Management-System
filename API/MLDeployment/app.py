@@ -6,6 +6,8 @@ import pandas as pd
 
 from langchain_experimental.agents.agent_toolkits.csv.base import create_csv_agent
 from langchain.llms import OpenAI
+from langchain_community.chat_models import ChatOpenAI
+from langchain.agents import AgentType
 import openai
 
 # create a Flask app
@@ -55,10 +57,24 @@ def basic():
 # -- Part B: Develop an AI Agent for Case Insights --
 
 # insert your generated OpenAI API Key
-os.environ["OPENAI_API_KEY"] = "sk-abcdef1234567890abcdef1234567890abcdef12"  
+os.environ["OPENAI_API_KEY"] = "sk-abcdef1234567890abcdef1234567890abcdef12"
+api_key = os.environ.get("OPENAI_API_KEY")
+api_key
 
 # create an AI-chatbot agent that will answer the key business questions by interacting with the CMS model data
-chain = create_csv_agent( OpenAI(temperature=0), path="./data/model_data.csv", verbose=True, allow_dangerous_code=True) # temperature=0 refers to not chnaging of facts when the agent is feeding back
+chain = create_csv_agent(OpenAI(temperature=0, model="gpt-4", api_key=api_key), path=["./data/model_data.csv", "./data/scored_data_example.csv"], 
+                         verbose=True, 
+                         agent_type=AgentType.OPENAI_FUNCTIONS,
+                         allow_dangerous_code=True               
+) 
+
+# chain = create_csv_agent(
+# ChatOpenAI(temperature=0, model="gpt-4", api_key=api_key),
+# path=["./data/model_data.csv", "./data/scored_data_example.csv"],
+# verbose=True, 
+# agent_type=AgentType.OPENAI_FUNCTIONS,
+# allow_dangerous_code=True
+# )   
 
 # render the template
 @app.route("/")
@@ -78,4 +94,4 @@ if __name__ == '__main__':
     app.secret_key = 'Your secret key'
     app.run(debug=True)
 
-# run command 'python app.py and access 'http://127.0.0.1:5000/'
+# run command 'python app.py' and access 'http://127.0.0.1:5000/'
