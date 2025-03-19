@@ -62,14 +62,22 @@ api_key = os.environ.get("OPENAI_API_KEY")
 api_key
 
 # create an AI-chatbot agent that will answer the key business questions by interacting with the CMS model data
+<<<<<<< HEAD
 chain = create_csv_agent(OpenAI(temperature=0, model="gpt-4", api_key=api_key), path=["./data/model_data.csv", "./data/scored_data_example.csv"], 
+=======
+chain = create_csv_agent(OpenAI(temperature=0, model="gpt-4o"api_key=api_key), path=["./data/model_data.csv", "./data/scored_data_example.csv"], 
+>>>>>>> 592d0472691005bff5bca19393facfd71b62f115
                          verbose=True, 
                          agent_type=AgentType.OPENAI_FUNCTIONS,
                          allow_dangerous_code=True               
 ) 
 
 # chain = create_csv_agent(
+<<<<<<< HEAD
 # ChatOpenAI(temperature=0, model="gpt-4", api_key=api_key),
+=======
+# ChatOpenAI(temperature=0, model="gpt-4o"api_key=api_key),
+>>>>>>> 592d0472691005bff5bca19393facfd71b62f115
 # path=["./data/model_data.csv", "./data/scored_data_example.csv"],
 # verbose=True, 
 # agent_type=AgentType.OPENAI_FUNCTIONS,
